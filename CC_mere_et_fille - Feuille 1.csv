@@ -1,0 +1,763 @@
+,Modèle,Taille,Fait par,Gamme,Matière,Couleur,Matière 2,Couleur 2,Prix,Vendu,Année,Collection,Numéro produit
+0,Ubelle,M,CA,CC,Croco,Noir,Velours,Noir,500,0,2017,Ubelle,1.0
+1,Ubelle,M,CA,CC,Croco,Gris,Velours,Gris,500,1,2017,Ubelle,2.0
+2,Ubelle,M,CA,CC,Croco,Beige,Velours,Brun Lion,500,1,2017,Ubelle,3.0
+3,Ubelle,S,CA,CC,Croco,Taupe,Velours,Taupe,450,1,2017,Ubelle,4.0
+4,Ubelle,S,CA,CC,Croco,Bleu ,Velours,Bleu Cosmo,450,1,2017,Ubelle,5.0
+5,Ubelle,S,CA,CC,Croco,Noir,Velours,Noir,450,1,2017,Ubelle,6.0
+6,Ubelle,XS,CA,CC,Croco,Taupe,Velours,Taupe,440,1,2017,Ubelle,7.0
+7,Ubelle,XS,CA,CC,Croco,Noir,Velours,Noir,440,1,2017,Ubelle,8.0
+8,Ubelle,,CA,CC,Lisse,Bleu Cosmo,Croco,Bleu,440,1,2017,Ubelle,9.0
+9,Yaelle,,CM,CC,Croco,Bleu Cosmo,,,480,1,2017,Entre Filles,10.0
+10,Chloé,,CM,CC,Velours,Gris,Grainé,,300,1,2017,Entre Filles,11.0
+11,Hanaé,,CM,CC,Velours,Taupe,Croco,,420,1,2017,Entre Filles,12.0
+12,Laura,,CM,CC,Velours,Noir,Croco,,390,1,2017,Entre Filles,13.0
+13,Natacha,,JE,CC,Lisse,Rose Blushpink,Croco,Rose Nuage,400,1,2017,Entre Filles,110.0
+14,Natacha,,JE,CC,Lisse,Noir,Croco,Noir,400,1,2017,Entre Filles,111.0
+15,Natacha,,JE,CC,Lisse,Noir,Croco,Gris,400,1,2017,Entre Filles,112.0
+16,Natacha,,JE,CC,Lisse,Brun Lion,Croco,Beige,400,0,2017,Entre Filles,113.0
+17,Natacha,,JE,CC,Lisse,Gris Shark,Croco,Gris,400,2,2017,Entre Filles,114.0
+18,Natacha,,JE,CC,Lisse,Frost,Croco,Blanc Cassé,400,1,2017,Entre Filles,115.0
+19,Natacha,,JE,CC,Lisse,Bleu Cosmo,Croco,Bleu Cosmo,400,1,2017,Entre Filles,
+20,Leslie,,JE,CC,Lisse,Octane,Croco,Gris,350,1,2017,Entre Filles,
+21,Leslie,,JE,CC,Lisse,Gris Shark,Croco,Gris Hellgrau,350,1,2017,Entre Filles,
+22,Leslie,,JE,CC,Lisse,Bleu Cosmo,Croco,Bleu Cosmo,350,1,2017,Entre Filles,
+23,Leslie,,JE,CC,Lisse,Noir,Croco,Noir,350,0,2017,Entre Filles,
+24,Leslie,,JE,CC,Lisse,Beige Clair ,Croco,Hellbeige,360,1,2017,Entre Filles,
+25,Leslie,,JE,CC,Lisse,Brun Canyon,Croco,Beige,360,0,2017,Entre Filles,
+26,Yaelle,,JE,CC,Grainé,Gris ,Croco,Gris,475,1,2017,Entre Filles,
+27,Yaelle,,JE,CC,Lisse,Brun Canyon,Croco,Beige,475,1,2017,Entre Filles,
+28,Yaelle,,JE,CC,Lisse,Frost,Croco,Hellbeige,475,1,2017,Entre Filles,
+29,Yaelle,,JE,CC,Lisse,Brun Lion,Croco,Beige,475,1,2017,Entre Filles,
+30,Yaelle,,JE,CC,Lisse,Bleu Cosmo,Croco,Bleu Cosmo,475,1,2017,Entre Filles,
+31,Laura,,CA,CC,Velours,Gris Shark,Lisse,Gris Shark,390,1,2017,Entre Filles,
+32,Laura,,CA,CC,Velours,Bleu Cosmo,Lisse,Bleu Cosmo,390,1,2017,Entre Filles,
+33,Laura,,CA,CC,Velours,Bleu Mysterious,Lisse,Bleu Cosmo,390,1,2017,Entre Filles,
+34,Laura,,CA,CC,Velours,Octane,Lisse,Octane,390,1,2017,Entre Filles,
+35,Laura,,CA,CC,Velours,Brun Ciuio,Lisse,Brun Lion,390,0,2017,Entre Filles,
+36,Laura,,CA,CC,Velours,Brun Ciuio,Lisse,Brun Lion,390,0,2017,Entre Filles,
+37,Laura,,CA,CC,Velours,Brun Chataigne,Lisse,Brun Date,390,1,2017,Entre Filles,
+38,Ubelle,XS,CA,CC,Velours,Rose Blushpink,Lisse,Rose Nuage,450,1,2017,Ubelle,
+39,Ubelle,XS,CD,CC,Velours,Brun Canyon,Croco,Beige,450,1,2017,Ubelle,
+40,Ubelle,S,CD,CC,Velours,Gris Shark,Croco,Gris,450,0,2017,Ubelle,
+41,Ubelle,XS,CD,CC,Velours,Gris Clair,Lisse,Gris Souris,450,0,2017,Ubelle,
+42,Leslie,,CA,CC,Lisse,Gris Shark,Croco,Gris,360,1,2017,Entre Filles,
+43,Leslie,,CA,CC,Lisse,Bleu Cosmo,Croco,Bleu ,360,1,2017,Entre Filles,
+44,Leslie,,CA,CC,Lisse,Octane,Croco,Gris,360,1,2017,Entre Filles,
+45,Leslie,,CA,CC,Lisse,Gris,Grainé,Gris,360,1,2017,Entre Filles,
+46,Leslie,,CA,CC,Lisse,Brun Chataigne,Croco,Marron,360,1,2017,Entre Filles,
+47,Leslie,,CA,CC,Lisse,Frost,Croco,Frost,360,1,2017,Entre Filles,
+48,Ubelle,XS,CD,CC,Velours,Frost,Croco,Frost,440,1,2017,Ubelle,
+49,Ubelle,XS,CD,CC,Velours,Rose Brushpink,Croco,Rose,440,0,2017,Ubelle,
+50,Ubelle,XS,CD,CC,Velours,Gris Clair,Lisse,Gris Souris,440,0,2017,Ubelle,
+51,Natacha,,CA,CC,Lisse,Brun Chataigne ,Croco,Marron,400,1,2017,Entre Filles,
+52,Natacha,,CA,CC,Lisse,Noir,Croco,Noir,400,1,2017,Entre Filles,
+53,Natacha,,CA,CC,Lisse,Noir,Croco,Noir,400,1,2017,Entre Filles,
+54,Natacha,,CA,CC,Lisse,Octane,Croco,Gris ,400,1,2017,Entre Filles ,
+55,Natacha,,CA,CC,Lisse,Noir,Croco,Gris,400,1,2017,Entre Filles,
+56,Natacha,,CA,CC,Lisse,Frost,Croco,Beige,400,1,2017,Entre Filles,
+57,Natacha,,CA,CC,Grainé,Gris,Croco,Gris Clair,400,1,2017,Entre Filles,
+58,Natacha,,CA,CC,Lisse,Bleu Cosmo,Croco,Bleu Cosmo,400,1,2017,Entre Filles,
+59,Natacha,,CA,CC,Lisse,Rose Blushpink,Croco,Rose,400,0,2017,Entre Filles,
+60,Hanaé,,CA,CC,Velours,Taupe,Lisse,Taupe,420,1,2017,Entre Filles,
+61,Hanaé,,CA,CC,Velours,Brun,Lisse,Brun,420,1,2017,Entre Filles,
+62,Hanaé,,CA,CC,Velours,Noir,Lisse,Noir,420,1,2017,Entre Filles,
+63,Chloé,,CA,CC,Velours,Noir,Grainé,Noir,370,1,2017,Entre Filles,
+64,Chloé,,CA,CC,Velours,Brun Ciuio,Lisse,Brun Lion,350,1,2017,Entre Filles,
+65,Chloé,,CA,CC,Velours,Gris Shark,Lisse,Gris Shark,350,1,2017,Entre Filles,
+66,Chloé,,CA,CC,Velours,Bleu Mysterious,Lisse,Bleu Cosmo,350,0,2017,Entre Filles,
+67,Laura,,CA,CC,Lisse,Gris Shark,Croco,Gris,400,1,2017,Entre Filles,
+68,Yaelle,,CA,CC,Lisse,Octane,Croco,Bleu,475,1,2017,Entre Filles,
+69,Yaelle,,CA,CC,Lisse,Octane,Croco,Gris,475,0,2017,Entre Filles,
+70,Yaelle,,CA,CC,Lisse,Gris Shark ,Croco,Gris,475,1,2017,Entre Filles,
+71,Yaelle,,CA,CC,Lisse,Gris Shark,Croco,Gris,475,1,2017,Entre Filles,
+72,Yaelle,,CA,CC,Lisse,Noir,Croco,Gris,475,1,2017,Entre Filles,
+73,Yaelle,,CA,CC,Lisse,Brun Chataigne,Croco,Marron,475,0,2017,Entre Filles,
+74,Yaelle,,CA,CC,Lisse,Bleu Cosmo,Croco,Bleu Cosmo,475,1,2017,Entre Filles,
+75,Yaelle,,CA,CC,Lisse,Bleu Cosmo,Croco,Bleu Cosmo,475,1,2017,Entre Filles,
+76,Yaelle,,CA,CC,Lisse,Redskin,Grainé,Caramel,475,1,2017,Entre Filles,
+77,Laura,,CA,CC,Lisse,Octane,Croco,Bleu,420,1,2017,Entre Filles,
+78,Laura,,CA,CC,Lisse,Bleu Cosmo,Croco,Bleu Cosmo,420,1,2017,Entre Filles,
+79,Laura,,CA,CC,Lisse,Noir,Croco,Noir,420,1,2017,Entre Filles,
+80,Laura,,CA,CC,Lisse,Bordeaux,Grainé,Auburn,420,1,2017,Entre Filles,
+81,Laura,,CA,CC,Lisse,Redskin,Grainé,Marron,420,1,2017,Entre Filles,
+82,Laura,,CA,CC,Lisse,Brun Chataigne,Croco,Marron,420,0,2017,Entre Filles,
+83,Laura,,CA,CC,Lisse,Noir,Croco,Gris,420,1,2017,Entre Filles,
+84,Hanaé,,CA,CC,Velours,Bleu Mysterious,Lisse,Bleu Cosmo,420,1,2017,Entre Filles,
+85,Hanaé,,CA,CC,Velours,Bleu Cosmo,Lisse,Bleu Cosmo,420,1,2017,Entre Filles,
+86,Hanaé,,CA,CC,Velours,Bleu Mysterious,Lisse,Bleu Cosmo,420,1,2017,Entre Filles,
+87,Hanaé,,CA,CC,Velours,Gris Shark,Lisse,Gris Shark,420,1,2017,Entre Filles,
+88,Hanaé,,CA,CC,Velours,Brun Chataigne,Lisse,Brun Chataigne,420,1,2017,Entre Filles,
+89,Hanaé,,CA,CC,Velours,Brun Ciuio,Lisse,Brun Lion,420,1,2017,Entre Filles,
+90,Ubelle,M,CA,CC,Velours,Brun Chataigne,Croco,Marron,450,0,2017,Ubelle,
+91,Laura,,CA,CC,Velours,Vert Bottle,Lisse,Gris Shark,390,1,2017,Entre Filles,
+92,Laura,,CA,CC,Velours,Gris Shark,Lisse,Gris Shark,400,1,2017,Entre Filles,
+93,Laura,,CA,CC,Velours,Bleu Cosmo,Lisse,Bleu Cosmo,400,1,2017,Entre Filles,
+94,Laura,,CA,CC,Lisse,Brun Lion,Vernis,Beige,420,0,2017,Entre Filles,
+95,Laura,,CA,CC,Lisse,Brun Canyon,Vernis,Brun,420,0,2017,Entre Filles,
+96,Laura,,CA,CC,Lisse,Gris Shark,Grainé,Noir,420,1,2017,Entre Filles,
+97,Laura,,CA,CC,Lisse,Gris Shark,Croco,Gris,420,0,2017,Entre Filles,
+98,Natacha,,CA,CC,Lisse,Bleu Cosmo,Croco,Bleu ,400,0,2017,Entre Filles,
+99,Natacha,,CA,CC,Lisse,Rouge,Grainé,Rouge,400,1,2017,Entre Filles,
+100,Natacha,,CA,CC,Lisse,Bordeaux,Grainé,Bordeaux,400,0,2017,Entre Filles,
+101,Natacha,,CA,CC,Lisse,Vert Bottle,Grainé,Vert,400,1,2017,Entre Filles,
+102,Yaelle,,CA,CC,Lisse,Noir,Croco,Noir,490,1,2017,Entre Filles,
+103,Yaelle,,CA,CC,Lisse,Vert Bottle,Grainé,Vert,0,1,2017,Entre Filles,
+104,Yaelle,,CA,CC,Lisse,Bleu Cosmo,Croco,Bleu,490,1,2017,Entre Filles,
+105,Chloé,,CA,CC,Velours,Gris Shark,Lisse,Gris Shark,360,1,2018,Entre Filles,
+106,Chloé,,CA,CC,Velours,Vert Bottle,Lisse,Vert Bottle,360,1,2018,Entre Filles,
+107,Chloé,,CA,CC,Lisse,Brun Lion,Grainé,Brun,380,1,2018,Entre Filles,
+108,Chloé,,CA,CC,Lisse,Vert Truffle,Vernis,Brun,380,1,2018,Entre Filles,
+109,Chloé,,CA,CC,Lisse,Gris Clair,Grainé,Gris,380,1,2018,Entre Filles,
+110,Chloé,,CA,CC,Lisse,Brun Canyon,Vernis,Brun,380,1,2018,Entre Filles,
+111,Chloé,,CA,CC,Lisse,Noir,Grainé,Noir,380,1,2018,Entre Filles,
+112,Hanaé,,CA,CC,Velours,Gris Shark,Lisse,Gris Shark,420,1,2018,Entre Filles,
+113,Hanaé,,CA,CC,Velours,Vert Birsch,Lisse,Gris Shark,420,1,2018,Entre Filles,
+114,Hanaé,,CA,CC,Velours,Vert Truffle,Lisse,Vert Truffle,420,1,2018,Entre Filles,
+115,Hanaé,,CA,CC,Velours,Redskin,Lisse,Redskin,420,1,2018,Entre Filles,
+116,Hanaé,,CA,CC,Velours,Gris Clair,Lisse,Gris Clair,420,1,2018,Entre Filles,
+117,Chloé,,CA,CC,Velours,Redskin,Lisse,Redskin,360,1,2018,Entre Filles,
+118,Chloé,,CA,CC,Velours,Octane,Lisse,Octane,360,1,2018,Entre Filles,
+119,Chloé,,CA,CC,Velours,Rose Blushpink,Lisse,Nuage,360,1,2018,Entre Filles,
+120,Chloé,,CA,CC,Lisse,Rose Nuage,Croco,Rose,380,1,2018,Entre Filles,
+121,Chloé,,CA,CC,Lisse,,Croco,Rose,380,1,2018,Entre Filles,
+122,Chloé,,CA,CC,Lisse,Gris Clair,Croco,Hellgrau,380,1,2018,Entre Filles,
+123,Chloé,,CA,CC,Lisse,Frost,Croco,Beige,380,1,2018,Entre Filles,
+124,Laura,,CA,CC,Lisse,Vert Birsch,Grainé,Vert,420,1,2018,Entre Filles,
+125,Laura,,CA,CC,Lisse,Frost,Croco,Beige ,420,1,2018,Entre Filles,
+126,Laura,,CA,CC,Lisse,Gris,Grainé,Gris,420,1,2018,Entre Filles,
+127,Laura,,CA,CC,Lisse,Rose,Croco,Rose,420,0,2018,Entre Filles,
+128,Laura,,CA,CC,Lisse,Frost,Grainé,Bleu Clair,420,0,2018,Entre Filles,
+129,Natacha,,CD,CC,Lisse,Redskin,Grainé,Redskin,400,1,2018,Entre Filles,
+130,Natacha,,CD,CC,Lisse,Gris Clair,Grainé,Gris Clair,400,1,2018,Entre Filles,
+131,Natacha,,CD,CC,Lisse,Bleu Flag,Grainé,Bleu Flag,400,1,2018,Entre Filles,
+132,Natacha,,CD,CC,Lisse,Octane,Grainé,Octane,400,1,2018,Entre Filles,
+133,Natacha,,CD,CC,Lisse,Vert Truffle,Lisse,Mouton,400,1,2018,Entre Filles,
+134,Natacha,,CD,CC,Lisse,Vert Birsche,Grainé,Vert,400,1,2018,Entre Filles,
+135,Natacha,,CD,CC,Lisse,Vert Birsch,Grainé,Vert,400,1,2018,Entre Filles,
+136,Yaelle,,CD,CC,Lisse,Bleu Cosmo,Grainé,Bleu ,490,0,2018,Entre Filles,
+137,Yaelle,,CD,CC,Lisse,Vert Truffle,Grainé,Vert,490,1,2018,Entre Filles,
+138,Yaelle,,CD,CC,Lisse,Redskin,Grainé,Brun,490,1,2018,Entre Filles,
+139,Yaelle,,CD,CC,Lisse,Redskin,Vieilli,Redskin,490,0,2018,Entre Filles,
+140,Yaelle,,CD,CC,Lisse,Gris,Grainé,Perle,490,1,2018,Entre Filles,
+141,Yaelle,,CD,CC,Lisse,Bleu Cosmo,,,490,1,2018,Entre Filles,
+142,Yaelle,,CD,CC,Lisse,Frost,Grainé,Blanc,490,1,2018,Entre Filles,
+143,Yaelle,,CD,CC,Lisse,Vert,,,490,1,2018,Entre Filles,
+144,Yaelle,,CD,CC,Lisse,Brun Lion,,,490,1,2018,Entre Filles,
+145,Laura,,CA,CC,Lisse,Noir,Grainé,,420,1,2018,Entre Filles,
+146,Laura,,CA,CC,Lisse,Bleu Cosmo,Grainé,Bleu,420,1,2018,Entre Filles,
+147,Laura,,CA,CC,Lisse,Bleu Cosmo,Grainé,Bleu,420,1,2018,Entre Filles,
+148,Laura,,CA,CC,Lisse,Rouge,Grainé,Rouge,420,1,2018,Entre Filles,
+149,Laura,,CA,CC,Lisse,Bordeaux,Grainé,Bordeaux,420,1,2018,Entre Filles,
+150,Léonie,,CA,CC,Lisse,Vert Bottle,Grainé,Vert,450,1,2018,Léon,
+151,Léonie,,CA,CC,Lisse,Bleu Nuit,Grainé,Bleu Nuit,450,0,2018,Léon,
+152,Léonie,,CA,CC,Lisse,Vert Bottle,Velours,Vert Truffle,450,1,2018,Léon,
+153,Léonie,,CA,CC,Lisse,Vert Bottle,Velours,Vert Truffle,450,1,2018,Léon,
+154,Léonie,,CA,CC,Lisse,Brun Lion,Grainé,Brun,450,0,2018,Léon,
+155,Léonie,,CA,CC,Lisse,Gris Shark,Velours,Bleu Cosmo,450,1,2018,Léon,
+156,Léonie,,CA,CC,Lisse,Bleu Cosmo,Nubuck,Bleu Cosmo,450,0,2018,Léon,
+157,Léonie,,CA,CC,Lisse,Noir,Velours,Noir,450,1,2018,Léon,
+158,Léonie,,CA,CC,Lisse,Brun Lion,,Brun Canyon,450,1,2018,Léon,
+159,Léonie,,CA,CC,Lisse,Brun Lion,Lisse,Redskin,450,1,2018,Léon,
+160,Léone,,CA,CC,Lisse,Bleu Nuit,Grainé,Bleu ,525,1,2018,Léon,
+161,Léone,,CA,CC,Lisse,Noir,Velours,Noir,525,1,2018,Léon,
+162,Léone,,CA,CC,Lisse,Bleu Cosmo,Velours,Bleu Mysterious,525,1,2018,Léon,
+163,Léone,,CA,CC,Lisse,Gris Shark,Velours,Vert Bottle,525,1,2018,Léon,
+164,Léone,,CA,CC,Lisse,Gris Shark,Velours,Bleu Cosmo,525,1,2018,Léon,
+165,Léone,,CA,CC,Lisse,Bleu Cosmo,Velours,Bleu Cosmo,525,1,2018,Léon,
+166,Léone,,CA,CC,Lisse,Brun Lion,Grainé,Brun,525,1,2018,Léon,
+167,Léo,L,CA,CC,Grainé,Noir,,,390,1,2018,Léon,
+168,Léo,L,CA,CC,Lisse,Vert,,,390,1,2018,Léon,
+169,Léo,L,CA,CC,Nubuck,Bleu,,,390,1,2018,Léon,
+170,Léo,L,CA,CC,Lisse,Truffle,,,390,1,2018,Léon,
+171,Léo,L,CA,CC,Lisse,Gris,,,390,1,2018,Léon,
+172,Maya,,CA,CC,Nubuck,Bleu Marine,Lisse,Cosmo,175,1,2018,Entre Filles,
+173,Maya,,CA,CC,Nubuck,Bleu,Lisse,Cosmo,175,0,2018,Entre Filles,
+174,Maya,,CA,CC,Nubuck,Opera,Lisse,Rouge,175,0,2018,Entre Filles,
+175,Maya,,CA,CC,Nubuck,Bleu Gris,Lisse,Bleu,175,0,2018,Entre Filles,
+176,Maya,,CA,CC,Nubuck,Taupe,Lisse,Taupe,175,1,2018,Entre Filles,
+177,Maya,,CA,CC,Nubuck,Navy,Lisse,Bleu Cosmo,175,1,2018,Entre Filles,
+178,Chloé,,CA,CC,Velours,Vert Bottle,Lisse,Gris Shark,360,1,2018,Entre Filles,
+179,Chloé,,CA,CC,Velours,Bleu Mysterious,Lisse,Bleu Cosmo,360,1,2018,Entre Filles,
+180,Chloé,,CA,CC,Lisse,Noir,Grainé,Noir,380,1,2018,Entre Filles,
+181,Chloé,,CA,CC,Lisse,Vert Bottle,Grainé,Vert,380,0,2018,Entre Filles,
+182,Chloé,,CA,CC,Lisse,Brun Canyon,Grainé,Brun,380,1,2018,Entre Filles,
+183,Laura,,CA,CC,Velours,Gris Shark,Lisse,Gris Shark,380,1,2018,Entre Filles,
+184,Laura,,CA,CC,Velours,Vert Bottle,Lisse,Gris Shark,380,1,2018,Entre Filles,
+185,Léonie,,CA,CC,Lisse,Brun Chataigne,Nubuck,Bordeaux Medoc,450,1,2018,Léon,
+186,Léonie,,CA,CC,Lisse,Noir,Velours,Noir,450,1,2018,Léon,
+187,Léonie,,CA,CC,Lisse,Noir,Velours,Noir,450,1,2018,Léon,
+188,Léonie,,CA,CC,Lisse,Gris Shark,Velours,Bleu Cosmo,450,1,2018,Léon,
+189,Léonie,,CA,CC,Lisse,Octane,Nubuck,Navy,450,1,2018,Léon,
+190,Léonie,,CA,CC,Lisse,Noir,Velours,Noir,525,1,2018,Léon,
+191,Léone,,CA,CC,Lisse,Noir,Velours,Noir,525,1,2018,Léon,
+192,Léone,,CA,CC,Lisse,Bleu Nuit,Nubuck,Bleu Gris,525,1,2018,Léon,
+193,Léone,,CA,CC,Lisse,Vert Truffle,Velours,Vert Truffle,525,1,2018,Léon,
+194,Léone,,CA,CC,Lisse,Vert Truffle,Nubuck,Beige,525,1,2018,Léon,
+195,Léo,L,CA,CC,Lisse,Noir,,,390,1,2018,Léon,
+196,Léo,L,CA,CC,Nubuck,Beige,,,390,1,2018,Léon,
+197,Léo,L,CA,CC,Lisse,Vert Truffle,,,390,1,2018,Léon,
+198,Léo,L,CA,CC,Grainé,Gris,,,390,1,2018,Léon,
+199,Léo,L,CA,CC,Lisse,Brun Canyon,,,390,1,2018,Léon,
+200,Léo,L,CA,CC,Nubuck,Gris Bleu,,,390,1,2018,Léon,
+201,Léo,L,CA,CC,Nubuck,Bleu Gris,,,390,1,2018,Léon,
+202,Léo,L,CA,CC,Nubuck,Vert,,,390,1,2018,Léon,
+203,Léo,L,CA,CC,Lisse,Bleu Nuit,Grainé,Noir,390,1,2018,Léon,
+204,Léone,,CA,CC,Lisse,Noir,Croco,Noir,525,1,2019,Léon,
+205,Léone,,CA,CC,Lisse,Brun Chataigne,Nubuck,Beige,525,0,2019,Léon,
+206,Léone,,CA,CC,Lisse,Brun Chataigne,Nubuck,Bordeaux Medoc,525,1,2019,Léon,
+207,Léone,,CA,CC,Lisse,Rose Blushpink,Croco,Rose,525,0,2019,Léon,
+208,Léone,,CA,CC,Lisse,Bleu Cosmo,Croco,Bleu,525,1,2019,Léon,
+209,Léone,,CA,CC,Lisse,Gris Clair,,Gris,525,1,2019,Léon,
+210,Maya,,CF,CC,Lisse,Rose Blushpink,Croco,Rose,175,0,2019,Entre Filles,
+211,Maya,,CF,CC,Lisse,Noir,Croco,Noir,175,0,2019,Entre Filles,
+212,Maya,,CF,CC,Nubuck,Bleu Nuit,Lisse,Bleu Nuit,175,0,2019,Entre Filles,
+213,Maya,,CF,CC,Velours,Noir,Lisse,Noir,175,0,2019,Entre Filles,
+214,Léo,S,CA,CC,Grainé,Gris,,,360,1,2019,Léon,
+215,Nina,,CD,CC,Lisse,Noir,Croco,Noir,210,1,2019,Mia&Nina,
+216,Nina,,CD,CC,Lisse,Noir,Croco,Noir,300,1,2019,Mia&Nina,
+217,Nina,,CD,CC,Lisse,Bleu Cosmo,Velours,Bleu Mysterious,300,1,2019,Mia&Nina,
+218,Nina,,CD,CC,Lisse,Gris,Croco,Gris,300,0,2019,Mia&Nina,
+219,Nina,,CD,CC,Lisse,Maize,Grainé,Mais,300,1,2019,Mia&Nina,
+220,Nina,,CD,CC,Lisse,Cappuccino,Velours,Rose Nuage,300,0,2019,Mia&Nina,
+221,Chloé,,CA,CC,Lisse,Cappuccino,Velours,Rose Nuage,360,0,2019,Entre Filles,
+222,Chloé,,CA,CC,Lisse,Cappuccino,Nubuck,Taupe,360,1,2019,Entre Filles,
+223,Chloé,,CA,CC,Lisse,Bleu Nuit,Nubuck,Smock,380,1,2019,Entre Filles,
+224,Chloé,,CA,CC,Lisse ,Maize,Grainé,Mais,380,1,2019,Entre Filles,
+225,Chloé,,CA,CC,Lisse,Gris Clair,Croco,Gris,380,0,2019,Entre Filles,
+226,Hanaé,,CA,CC,Velours,Nuage,Lisse,Cappuccino,420,0,2019,Entre Filles,
+227,Hanaé,,CA,CC,Velours,Beige Ciuio,Lisse,Cappuccino,420,1,2019,Entre Filles,
+228,Hanaé,,CA,CC,Velours,Bleu Cosmo,Lisse,Bleu Cosmo,420,0,2019,Entre Filles,
+229,Mia,,CF,CC,Lisse,Cappuccino,,,160,1,2019,Mia&Nina,
+230,Mia,,CF,CC,Lisse,Offwhite,,,160,1,2019,Mia&Nina,
+231,Mia,,CF,CC,Lisse,Maize,,,160,2,2019,Mia&Nina,
+232,Mia,,CF,CC,Lisse,Noir,,,160,1,2019,Mia&Nina,
+233,Mia,,CF,CC,Lisse,Noir,,,160,1,2019,Mia&Nina,
+234,Mia,,CF,CC,Lisse,Gris Schist,,,160,0,2019,Mia&Nina,
+235,Yaelle,,CD,CC,Lisse,Cappuccino,Croco,Beige,490,0,2019,Entre Filles,
+236,Yaelle,,CD,CC,Lisse,Bleu Nuit,Croco,Bleu,490,1,2019,Entre Filles,
+237,Yaelle,,CD,CC,Velours,Rose Coquille,Lisse ,Rose Blushpink,490,0,2019,Entre Filles,
+238,Yaelle,,CD,CC,Lisse,Maize,Grainé,Mais,490,0,2019,Entre Filles,
+239,Léonie,,CA,CC,Lisse,Cappuccino,Velours,Rose Nuage,450,0,2019,Entre Filles,
+240,Léonie,,CA,CC,Lisse,Cappuccino,Velours,Brun Ciuio,450,1,2019,Léon,
+241,Léonie,,CA,CC,Lisse,Cappuccino,Nubuck,Beige,450,1,2019,Léon,
+242,Léonie,,CA,CC,Lisse,Maize,Grainé,Mais,450,0,2019,Léon,
+243,Léo,M,CA,CC,,,,,380,1,2019,Léon,
+244,Ubelle,L,CA,CC,Velours,Offwhite,Grainé,Blanc,500,1,2019,Ubelle,
+245,Ubelle,L,CA,CC,Lisse,Maize,Grainé,Mais,500,0,2019,Ubelle,
+246,Ubelle,L,CA,CC,Nubuck,Taupe,Grainé,Taupe,500,0,2019,Ubelle,
+247,Mia,,CF,CC,Lisse,Gris Clair,,,160,1,2019,Mia&Nina,
+248,Mia,,CF,CC,Lisse,Cappuccino,,,160,1,2019,Mia&Nina,
+249,Mia,,CF,CC,Lisse,Bordeaux,,,160,1,2019,Mia&Nina,
+250,Mia,,CF,CC,Lisse,Maize,,,160,1,2019,Mai&Nina,
+251,Mia,,CF,CC,Lisse,Bleu Nuit,,,160,1,2019,Mia&Nina,
+252,Mia,,CF,CC,Lisse,Vert Truffle,,,160,1,2019,Mia&Nina,
+253,Léonie,,CA,CC,Lisse,Maize,Croco,Beige,450,1,2019,Léon,
+254,Léonie,SAC À DOS,CA,CC,Lisse,Offwhite,Grainé,Blanc Cassé,450,0,2019,Léon,
+255,Nina,,CD,CC,Lisse,Rose Blushpink,Velours,Rose Coquille,300,0,2019,Mia&Nina,
+256,Nina,,CD,CC,Lisse,Bleu Azur,Grainé,Gris Clair,300,0,2019,Mia&Nina,
+257,Nina,,CD,CC,Lisse,Offwhite,Grainé,Gris Clair,300,0,2019,Mia&Nina,
+258,Nina,,CF,CC,Lisse,Bleu Nuit,Nubuck,Bleu Nuit,300,1,2019,Mia&Nina,
+259,Nina,,CF,CC,Lisse,Gris Shark,Velours,Vert Bottle,300,1,2019,Mia&Nina,
+260,Nina,,CF,CC,Lisse,Bordeaux,Nubuck,Bordeaux Medoc,300,0,2019,Mia&Nina,
+261,Nina,,CF,CC,Lisse,Maize,Croco,Beige,300,1,2019,Mia&Nina,
+262,Léone,,CA,CC,Lisse,Offwhite,Grainé,Blanc Cassé ,525,1,2019,Léon,
+263,Léone,,CA,CC,Lisse,Cappuccino,Croco,Beige,525,1,2019,Léon,
+264,Léone,,CA,CC,Lisse,Cappuccino,Nubuck,Blanc Cassé,525,1,2019,Léon,
+265,Léone,,CA,CC,Lisse,Offwhite,Grainé,Blanc Cassé,525,1,2019,Léon,
+266,Leslie,,CA,CC,Lisse,Maize,Grainé,Mais,360,0,2019,Entre Filles,
+267,Leslie,,CA,CC,Lisse,Bleu Azur,Grainé,Gris Clair,360,1,2019,Entre Filles,
+268,Mia,,CF,CC,Lisse,Rose Blushpink,,,160,0,2019,Mia&Nina,
+269,Mia,,CF,CC,Lisse,Maize,,,160,1,2019,Mia&Nina,
+270,Mia,,CF,CC,Lisse,Noir,,,160,1,2019,Mia&Nina,
+271,Mia,,CF,CC,Lisse,Gris,,,160,1,2019,Mia&Nina,
+272,Léonie,,CF,CC,Lisse,Noir,Croco,Noir,450,1,2019,Léon,
+273,Léonie,,CF,CC,Lisse,Bleu Cosmo,Croco,Bleu,450,1,2019,Léon,
+274,Léo,L,CF,CC,Lisse,Noir,Grainé,Noir,390,1,2019,Léon,
+275,Léo,L,CF,CC,Grainé,Gris,,,390,1,2019,Léon,
+276,Léo,L,CA,CC,Grainé,Vert Truffle,,,390,1,2019,Léon,
+277,Léo,S,CA,CC,Croco,Noir,,,390,1,2019,Léon,
+278,Mia,,AK,CC,Lisse,Noir,,,160,1,2019,Mia&Nina,
+279,Mia,,,CC,Lisse,Noir,,,160,1,2019,Mia&Nina,
+280,Mia,,,CC,Grainé,Argenté,,,160,1,2019,Mia&Nina,
+281,Mia,,,CC,Lisse,Bleu Denim,,,160,1,2019,Mia&Nina,
+282,Mia,,,CC,Lisse,Bleu Nuit,,,160,1,2019,Mia&Nina,
+283,Mia,,,CC,Lisse,Bordeaux,,,160,1,2019,Mia&Nina,
+284,Mia,,,CC,Lisse,Vert Truffle,,,160,1,2019,Mia&Nina,
+285,Eléonore,M,AK,CC,Lisse,Rouge,,,160,1,2019,Eléonore,
+286,Eléonore,M,AK,CC,Lisse,Bleu Cosmo,Croco,Bleu,160,1,2019,Eléonore,
+287,Eléonore ,M,AK,CC,Croco,Vert,,,160,1,2019,Eléonore,
+288,Eléonore,M,AK,CC,Croco,Noir,,,160,1,2019,Eléonore,
+289,Eléonore,M,AK,CC,Lisse,Brun Canyon,Grainé,Brun,160,1,2019,Eléonore,
+290,Eléonore,M,AK,CC,Lisse,Octane,Croco,Bleu,160,1,2019,Eléonore,
+291,Eléonore,S,AW,CC,Lisse,Noir,Croco,Noir,140,0,2019,Eléonore,
+292,Eléonore,S,AW,CC,Lisse,Bordeaux,Nubuck,Bordeaux Medoc,140,1,2019,Eléonore,
+293,Eléonore,S,AW,CC,Grainé,Argenté,Velours,Taupe,140,0,2019,Eléonore,
+294,Eléonore,S,AW,CC,Lisse,Vert Truffle,Velours,Vert Truffle,150,1,2019,Eléonore,414.0
+295,Eléonore,S,AW,CC,Croco,Noir,,,140,1,2019,Eléonore,
+296,Eléonore,S,AW,CC,Lisse,Rouge,Vernis,Rouge,140,0,2019,Eléonore,
+297,Eléonore,S,AW,CC,Croco,Vert,,,140,1,2019,Eléonore,
+298,Eléonore,S,AW,CC,Lisse,Brownrose,Velours,Brownrose,140,1,2019,Eléonore,
+299,Eléonore,S,AW,CC,Lisse,Rouge,Nubuck,Rouge Framboise,150,1,2019,Eléonore,419.0
+300,Eléonore,L,AK,CC,Lisse,Noir,Croco,Noir,195,1,2019,Eléonore,
+301,Eléonore,L,AK,CC,Lisse,Noir,Velours,Bleu Mysterious,195,1,2019,Eléonore,
+302,Eléonore,L,AK,CC,Lisse,Noir,Croco,Vert,195,1,2019,Eléonore,422.0
+303,Eléonore,L,AK,CC,Lisse,Brownrose,Velours,Brownrose,195,1,2019,Eléonore,
+304,Eléonore,L,AK,CC,Lisse,Bordeaux,Nubuck,Bordeaux,195,1,2019,Eléonore,
+305,Eléonore,L,AK,CC,Lisse,Brun Canyon,Croco,Brun Caramel,195,1,2019,Eléonore,
+306,Eléonore,L,AK,CC,Lisse,Gris Shark,Velours,Vert Bottle,195,1,2019,Eléonore,
+307,Yaelle,,CA,CC,Lisse,Brownrose,Velours,Brownrose,490,0,2019,Entre Filles,
+308,Yaelle,,CA,CC,Lisse,Bordeaux,,,490,1,2019,Entre Filles,
+309,Yaelle,,CA,CC,Lisse,Noir,Croco,Noir,490,1,2019,Entre Filles,
+310,Maya,,AK,CC,Lisse,Noir,Croco,Noir,200,0,2019,Entre Filles,
+311,Maya,,AK,CC,Grainé,Argenté,Lisse,Gris Shark,200,0,2019,Entre Filles,
+312,Eléonore,M,AW,CC,Lisse,Noir,Croco,Noir,170,1,2019,Eléonore,433.0
+313,Eléonore,M,AW,CC,Croco,Noir,,,160,1,2019,Eléonore,
+314,Eléonore,M,AW,CC,Croco,Vert,,,160,1,2019,Eléonore,
+315,Eléonore,M,AW,CC,Lisse,Brun Cognac,Croco,Brun Caramel,160,1,2019,Eléonore,
+316,Eléonore,S,AW,CC,Lisse,Noir,Croco,Noir,140,1,2019,Eléonore,
+317,Eléonore,S,AW,CC,Croco,Noir,,,140,0,2019,Eléonore,
+318,Eléonore,S,AW,CC,Croco,Vert,,,140,1,2019,Eléonore,
+319,Eléonore,L,AW,CC,Lisse,Brun Canyon,Croco,Brun Caramel,195,1,2019,Eléonore,
+320,Eléonore,L,AW,CC,Lisse,Noir,Croco,Noir,195,1,2019,Eléonore,
+321,Eléonore,L,AW,CC,Lisse,Noir,Croco,Noir,195,0,2019,Eléonore,
+322,Eléonore,L,AW,CC,Lisse,Gris Shark,Velours,Vert Bottle,195,1,2019,Eléonore,
+323,Léonie,SAC À DOS,CA,CC,Lisse,Noir,Velours,Noir,500,1,2020,Léon,
+324,Léonie,,CA,CC,Lisse,Bordeaux,Nubuck,Bordeaux Medoc,450,1,2020,Léon,
+325,Mia,,AW,CC,Lisse,Bordeaux,,,160,1,2020,Mia&Nina,
+326,Mia,,AW,CC,Lisse,Vert Truffle,,,160,0,2020,Mia&Nina,
+327,Mia,,AW,CC,Grainé,Argenté,,,160,1,2020,Mia&Nina,
+328,Mia,,AW,CC,Lisse,Bleu Nuit,,,160,0,2020,Mia&Nina,
+329,Mia,,AW,CC,Lisse,Cappuccino,,,160,1,2020,Mia&Nina,
+330,Mia,,AW,CC,Lisse,Noir,,,160,0,2020,Mia&Nina,
+331,Mia,,AW,CC,Lisse,Gris,,,160,1,2020,Mia&Nina,
+332,Léo,M,CA,CC,Grainé,Noir,,,380,1,2020,Léon,
+333,Léo,M,CA,CC,Nubuck,Taupe,,,380,1,2020,Léon,
+334,Eléonore,M,CM,CC,Lisse,Lilas,,,170,1,2020,Eléonore,472.0
+335,Eléonore,M,CM,CC,Lisse,Masai,Velours,Masai,160,1,2020,Eléonore,473.0
+336,Eléonore,M,CM,CC,Croco,Vert,,,170,1,2020,Eléonore,474.0
+337,Eléonore,M,CM,CC,Lisse,Brun Canyon,Croco,Caramel,160,1,2020,Eléonore,475.0
+338,Eléonore,M,CM,CC,Lisse,Brun Canyon,Grainé,Brun,160,2,2020,Eléonore,475.0
+339,Eléonore,M,CM,CC,Lisse,Masai,Velours,Masai,160,1,2020,Eléonore,477.0
+340,Eléonore,M,CM,CC,Lisse,Rouge,Lezard,Rouge,160,1,2020,Eléonore,478.0
+341,Eléonore,M,CM,CC,Lisse,Gris Clair,Croco,Gris Clair,160,0,2020,Eléonore,479.0
+342,Hélène,,AK,CC,Velours,Brownrose,Lisse,Brownrose,230,1,2020,,480.0
+343,Hélène,,AK,CC,Velours,Frost,Lisse,Frost,230,1,2020,,481.0
+344,Hélène,,AK,CC,Velours,Octane,Lisse,Octane,230,1,2020,,482.0
+345,Hélène,,AK,CC,Nubuck,Bleu Nuit,Lisse,Bleu Nuit,230,1,2020,,483.0
+346,Hélène,,AK,CC,Velours,Brun Canyon,Lisse,Brun Canyon,230,1,2020,,484.0
+347,Hélène,,AK,CC,Velours,Vert Truffle,Lisse,Vert Truffle,240,1,2020,,485.0
+348,Hélène,,AK,CC,Velours,Vert Bottle,Lisse,Vert Bottle,230,0,2020,,486.0
+349,Hélène,,AK,CC,Velours,Noir,Lisse,Noir,230,0,2020,,487.0
+350,Hélène,,AK,CC,Velours,Rose Nuage,Lisse,Rose Blushpink,230,0,2020,,488.0
+351,Hélène,,AK,CC,Velours,Masai,Lisse,Masai,230,1,2020,,489.0
+352,Hélène,,AK,CC,Velours,Masai,Lisse,Masai,230,1,2020,,490.0
+353,Hélène,,AK,CC,Velours,Masai,Lisse,Masai,230,1,2020,,491.0
+354,Kayla,,CM,CC,Lisse,Cappuccino,Velours,Brun Lion,535,1,2020,,492.0
+355,Kayla,,CM,CC,Lisse,Noir,Velours,Bleu Mysterious,525,1,2020,,493.0
+356,Kayla,,CM,CC,Lisse,Vert Truffle,Velours,Noir,525,1,2020,,494.0
+357,Kayla,,CM,CC,Lisse,Bleu Mysterious,Velours,Noir,525,0,2020,,495.0
+358,Eléonore,L,AK,CC,Lisse,Masai,Velours,Masai,195,1,2020,Eléonore,496.0
+359,Eléonore,L,AK,CC,Lisse,Noir,Croco,Vert,195,1,2020,Eléonore,497.0
+360,Eléonore,L,AK,CC,Lisse,Rouge,Lezard,Rouge,195,1,2020,Eléonore,498.0
+361,Léone,,AK,CC,Lisse,Noir,,,525,1,2020,Léon,500.0
+362,Léone,,AK,CC,Lisse,Bleu Cosmo,,,525,0,2020,Léon,501.0
+363,Léone,,AK,CC,Lisse,Bleu ,,,525,1,2020,Léon,502.0
+364,Léone,,AK,CC,Lisse,Gris Shark,Velours,,525,1,2020,Léon,503.0
+365,Kayla,,CM,CC,Lisse,Masai,Velours,Masai,525,1,2020,,504.0
+366,Kayla,,CM,CC,Lisse,Masai,Velours,Masai,525,0,2020,,505.0
+367,Kayla,,CM,CC,Lisse,Brownrose,Velours,Brownrose,525,1,2020,,506.0
+368,Hélène,,CM,CC,Lisse,Masai,Velours,Masai,230,1,2020,,507.0
+369,Léonie,,AK,CC,Lisse,Frost,Velours,,475,1,2020,Léon,508.0
+370,Léonie,,AK,CC,Lisse,Masai,Velours,Masai,475,1,2020,Léon,509.0
+371,Léonie,,AK,CC,Lisse,Brownrose,Velours,Brownrose,480,480,2020,Léon,510.0
+372,Natacha,,CM,CC,Lisse,Frost,Grainé,Frost,400,1,2020,Entre Filles,511.0
+373,Hélène,,CA,CC,Velours ,Brun Ciuio,Lisse,Brun Lion,230,1,2020,,512.0
+374,Hélène,,CA,CC,Nubuck,Rouge Cremisi,Lisse,Rouge,230,1,2020,,513.0
+375,Hélène,,CA,CC,Velours,Rose Coquille,Lisse,Rose Nuage,230,0,2020,,514.0
+376,Hélène,,CA,CC,Nubuck,Bleu Cosmo,Lisse,Bleu Cosmo,230,0,2020,,515.0
+377,Hélène,,CA,CC,Velours,Gris Clair,Lisse,Gris Clair,230,1,2020,,516.0
+378,Hélène,,CA,CC,Velours,Brownrose,Lisse,Brownrose,230,1,2020,,517.0
+379,Eléonore,M,CA,CC,Lisse,Bleu Cosmo,Nubuck,Bleu ,170,1,2020,Eléonore,518.0
+380,Léonie,,CA,CC,Lisse,Bordeaux,Nubuck,Bordeaux Medoc,475,1,2020,Léon,519.0
+381,Léonie,,CA,CC,Lisse,Rouge Cremisi,Nubuck,Rouge Framboise,475,1,2020,Léon,520.0
+382,Léonie,,CA,CC,Lisse,Bleu Nuit,Nubuck,Bleu,475,1,2020,Léon,521.0
+383,Léonie,,CA,CC,Lisse,Bleu Cosmo,Nubuck,Bleu,475,1,2020,Léon,522.0
+384,Eléonore,S,CM,CC,Lisse,Vert Bottle,Vernis,Vert,140,1,2020,Eléonore,523.0
+385,Eléonore,S,CM,CC,Lisse,Bleu Clair,Grainé,Gris Clair,140,0,2020,Eléonore,524.0
+386,Eléonore,S,CM,CC,Lisse,Jaune Poussin,,,140,1,2020,Eléonore,525.0
+387,Eléonore,S,CM,CC,Lisse,Violet,Croco,Violet,140,0,2020,Eléonore,526.0
+388,Eléonore,S,CM,CC,Lisse,Brun Chataigne,Croco,Marron,140,0,2020,Eléonore,527.0
+389,Eléonore,M,CM,CC,Lisse,Vert Bottle,Vernis,Vert,170,1,2020,Eléonore,528.0
+390,Eléonore,M,CM,CC,Lisse,Masai,Velours,Masai,160,1,2020,Eléonore,529.0
+391,Eléonore,M,CM,CC,Lisse,Masai,Velours,Masai,160,1,2020,Eléonore,530.0
+392,Eléonore,M,CM,CC,Lisse,Bleu Turquoise,,,160,0,2020,Eléonore,531.0
+393,Eléonore,M,CM,CC,Lisse,Frost,Grainé,Frost,160,1,2020,Eléonore,532.0
+394,Eléonore,M,CM,CC,Lisse,Violet,Croco,Violet,170,1,2020,Eléonore,533.0
+395,Eléonore,M,CM,CC,Lisse,Octane,Velours,Octane,160,1,2020,Eléonore,534.0
+396,Eléonore,S,CM,CC,Lisse,Octane,Velours,Octane,140,1,2020,Eléonore,535.0
+397,Eléonore,M,CM,CC,Grainé,Vert Olive,,,160,1,2020,Eléonore,536.0
+398,Eléonore,M,CM,CC,Lisse,Brun Chataigne,Croco,Marron,160,0,2020,Eléonore,537.0
+399,Léo,M,CA,CC,Lisse,Bleu,,,390,0,2020,Léon,538.0
+400,Léo,L,CA,CC,Grainé,Noir,,,420,0,2020,Léon,539.0
+401,Léo,L,CA,CC,Lisse,Gris Shist,,Noir,420,0,2020,Léon,540.0
+402,Léo,L,CA,CC,Lisse,Vert Bottle,Grainé,Vert,420,1,2020,Léon,541.0
+403,Léo,L,CA,CC,Lisse,Gris Shark,Grainé,Gris,378,1,2020,Léon,542.0
+404,Léo,L,CA,CC,Grainé,Noir,,,420,0,2020,Léon,543.0
+405,Léo,L,CA,CC,Lisse,Bleu,,,420,1,2020,Léon,544.0
+406,Léo,M,CA,CC,Nubuck,Beige,,,390,1,2020,Léon,545.0
+407,Léo,M,CA,CC,Grainé,Noir,,,390,1,2020,Léon,546.0
+408,Léo,M,CA,CC,Lisse,Bleu Klin,,,390,1,2020,Léon,547.0
+409,Léo,M,CA,CC,Lisse,Gris,,,390,1,2020,Léon,548.0
+410,Eléonore,M,CA,CC,Lisse,Vert Bottle,Velours,Vert Bottle,170,1,2020,Eléonore,548.0
+411,Pochette,,EB,CC,Lisse,Corail,Velours,Corail,50,1,2020,,550.0
+412,Pochette,,EB,CC,Lisse,Maize,Velours,Brun Lion,60,0,2020,,551.0
+413,Pochette,,EB,CC,Lisse,Brun Canyon,Velours,Brun Canyon,60,0,2020,,552.0
+414,Pochette,,EB,CC,Lisse,Rouge Crimisi,Nubuck,Rouge Cremisi,0,1,2020,,553.0
+415,Pochette,,EB,CC,Lisse,Brun Chataigne,Velours,Marron,60,0,2020,,554.0
+416,Pochette,,EB,CC,Lisse,Octane,Velours,Octane,60,0,2020,,555.0
+417,Pochette,,EB,CC,Lisse,Cosmo,Velours,Bleu Mysterious,60,0,2020,,556.0
+418,Pochette,,EB,CC,Lisse,Vert Truffle,Velours,Brun Chataigne,60,0,2020,,557.0
+419,Pochette,,EB,CC,Lisse,Rose Nuage,Velours,Rose Coquille,60,1,2020,,558.0
+420,Pochette,,EB,CC,Lisse,Brownrose,Velours,Brownrose,60,0,2020,,559.0
+421,Pochette,,EB,CC,Lisse,Brownrose,Velours,Brownrose,60,1,2020,,560.0
+422,Pochette,,EB,CC,Lisse,Brun Canyon,Velours,Brun Canyon,60,1,2020,,561.0
+423,Pochette,,EB,CC,Lisse,Brun Canyon,Velours,Brun Canyon,60,1,2020,,562.0
+424,Pochette,,EB,CC,Lisse,Maize,Velours,Brun Lion,60,0,2020,,563.0
+425,Pochette,,EB,CC,Lisse,Cappuccino,Velours,Brun Lion,60,0,2020,,564.0
+426,Pochette,,EB,CC,Lisse,Octane,Velours,Octane,50,1,2020,,565.0
+427,Pochette,,EB,CC,Lisse,Vert Bottle,Velours,Vert Bottle,60,0,2020,,566.0
+428,Pochette,,EB,CC,Lisse,Frost,Velours,Frost,60,0,2020,,567.0
+429,Pochette,,EB,CC,Lisse,Bleu Cosmo,Velours,Bleu Mysterious,60,1,2020,,568.0
+430,Pochette,,EB,CC,Lisse,Gris Clair,Velours,Gris Clair,60,0,2020,,569.0
+431,Pochette,,EB,CC,Lisse,Masai,Velours,Masai,60,1,2020,,571.0
+432,Pochette,,EB,CC,Lisse,Brun Lion,Velours,Brun Lion,60,1,2020,,572.0
+433,Pochette,,EB,CC,Lisse,Brun Lion,Velours,Brun Lion,60,0,2020,,572.0
+434,Pochette,,EB,CC,Lisse,Frost,Velours,Frost,60,0,2020,,573.0
+435,Ubelle,L,CA,CC,Velours,Brun Chataigne,Croco,Marron,500,0,2017,Ubelle,118.0
+436,Ubelle,L,CA,CC,Velours,Gris Shark,Grainé,Gris,500,0,2017,Ubelle,119.0
+437,Ubelle,L,CA,CC,Velours,Bleu Cosmo,Croco,Bleu,500,0,2017,Ubelle,117.0
+438,Ubelle,M,CA,CC,Velours,Noir,Croco,Noir,450,0,2017,Ubelle,104.0
+439,Ubelle,M,CA,CC,Velours,Brun Lion,Croco,Beige,450,0,2017,Ubelle,140.0
+440,Ubelle,M,CA,CC,Velours,Rose Nuage,Croco,Rose,450,0,2017,Ubelle,137.0
+441,Ubelle,M,CA,CC,Velours,Bleu Cosmo,Croco,Bleu,450,0,2017,Ubelle,105.0
+442,Natacha,,CA,CC,Lisse,Maize,Croco,Beige,400,0,2020,Entre Filles,10.0
+443,Natacha,,JE,CC,Lisse,Octane,Grainé,Octane,400,1,2017,Entre Filles,109.0
+444,Natacha,,CA,CC,Lisse,Noir,Croco,Noir,400,1,2020,Entre Filles,5.0
+445,Natacha,,CC,CC,Lisse,Octane,Croco,Gris,410,1,2017,Entre Filles,53.0
+446,Leslie,,JE,CC,Lisse,Redskin,Grainé,Brun Foncé,360,0,2018,Entre Filles,10.0
+447,Leslie,,CD,CC,Lisse,Redskin,Grainé,Caramel,360,0,2017,Entre Filles,19.0
+448,Laura,,JE,CC,Velours,Noir,Lisse,Noir,390,0,2017,Entre Filles,131.0
+449,Laura,,CC,CC,Jean,Noir,,,390,0,2017,Entre Filles,130.0
+450,Chloé,,CA,CC,Velours,Rose Coquille,Lisse,Redskin,370,0,2017,Entre Filles,125.0
+451,Chloé,,CA,CC,Velours,Bleu Mysterious,Lisse,Bleu Cosmo,370,0,2017,Entre Filles,93.0
+452,Chloé,,CM,CC,Velours,Brun Cognac,Lisse,Brun Canyon,250,1,2017,Entre Filles,96.0
+453,Hélène,,AK,CC,Velours,Bleu Mysterious,Lisse,Bleu Mysterious,230,1,2020,,492.0
+454,,,,CC,,,,,342,1,2017,Commande,1.0
+455,,,,CC,,,,,342,1,2017,Commande,2.0
+456,,,,CC,,,,,342,1,2017,Commande,3.0
+457,,,,CC,,,,,342,1,2017,Commande,4.0
+458,,,,CC,,,,,342,1,2017,Commande,5.0
+459,,,,CC,,,,,342,1,2017,Commande,6.0
+460,,,,CC,,,,,342,1,2017,Commande,7.0
+461,,,,CC,,,,,342,1,2017,Commande,8.0
+462,,,,CC,,,,,342,1,2017,Commande,9.0
+463,,,,CC,,,,,342,1,2017,Commande,10.0
+464,,,,CC,,,,,342,1,2018,Commande,1.0
+465,,,,CC,,,,,342,1,2018,Commande,2.0
+466,,,,CC,,,,,342,1,2018,Commande,3.0
+467,,,,CC,,,,,342,1,2018,Commande,4.0
+468,,,,CC,,,,,342,1,2018,Commande,5.0
+469,,,,CC,,,,,342,1,2018,Commande,6.0
+470,,,,CC,,,,,342,1,2018,Commande,7.0
+471,,,,CC,,,,,342,1,2018,Commande,8.0
+472,,,,CC,,,,,342,1,2018,Commande,9.0
+473,,,,CC,,,,,342,1,2018,Commande,10.0
+474,,,,CC,,,,,342,1,2019,Commande,1.0
+475,,,,CC,,,,,342,1,2019,Commande,2.0
+476,,,,CC,,,,,342,1,2019,Commande,3.0
+477,,,,CC,,,,,342,1,2019,Commande,4.0
+478,,,,CC,,,,,342,1,2019,Commande,5.0
+479,,,,CC,,,,,342,1,2019,Commande,6.0
+480,,,,CC,,,,,342,1,2019,Commande,7.0
+481,,,,CC,,,,,342,1,2019,Commande,8.0
+482,,,,CC,,,,,342,1,2019,Commande,9.0
+483,,,,CC,,,,,342,1,2019,Commande,10.0
+484,Léo,,,CC,,,,,400,1,2020,Commande,1.0
+485,Kayla,,,CC,,,,,450,1,2020,Commande,2.0
+486,Kayla,,,CC,,,,,450,1,2020,Commande,3.0
+487,Kayla,,,CC,,,,,450,1,2020,Commande,4.0
+488,Kayla,,,CC,,,,,450,1,2020,Commande,5.0
+489,Kayla,,,CC,,,,,450,1,2020,Commande,6.0
+490,Léonie,,,CC,,,,,600,1,2020,Commande,7.0
+491,Eléonore,M,,CC,,,,,160,1,2020,Commande,8.0
+492,Hélène,,,CC,,,,,230,1,2020,Commande,9.0
+493,Léonie,,,CC,,,,,450,1,2020,Commande,10.0
+494,Hélène,,,CC,,,,,230,1,2020,Commande,11.0
+495,Kayla,,CM,CC,,,,,450,1,2020,Commande,1.0
+496,Kayla,,CM,,,,,,450,1,2020,Commande,13.0
+497,Kayla,,CM,CC,,,,,450,1,2020,Commande,14.0
+498,Kayla,,CM,CC,,,,,450,1,2020,Commande,15.0
+499,Kayla,,CM,CC,,,,,450,1,2020,Commande,16.0
+500,Léone,,CA,CC,Lisse,Brownrose,Nubuck,Bordeaux ,495,1,2020,Léon,574.0
+501,Léone,,CA,CC,Lisse,Gris Shark,Velours,Vert Bottle,550,0,2020,Léon,575.0
+502,Léone,,CA,CC,Lisse,Noir,Croco,Noir,550,0,2020,Léon,576.0
+503,Léone,,CA,CC,Lisse,Noir,Velours,Noir,550,0,2020,Léon,577.0
+504,Léone,,CA,CC,Lisse,Bordeaux,Nubuck,Bordeaux,550,0,2020,Léon,578.0
+505,Laura,,CA,CC,Lisse,Noir,Croco,Noir,420,0,2020,Entre Filles,579.0
+506,Laura,,CA,CC,Lisse,Noir,Grainé,Noir,420,1,2020,Entre Filles,580.0
+507,Laura,,CA,CC,Lisse,Bordeaux,Vernis,Bordeaux,420,0,2020,Entre Filles,581.0
+508,Laura,,CA,CC,Lisse,Gris Shist,Lisse,Gris Shark ,420,0,2020,Entre Filles,582.0
+509,Laura,,CA,CC,Lisse,Bleu Nuit,Croco,Bleu ,420,0,2020,Entre Filles,583.0
+510,Mia,,EB,CC,Lisse,Bordeaux,Lisse,Brownrose,170,1,2020,Mia&Nina,584.0
+511,Mia,,EB,CC,Lisse,Gris Shist,Lisse,Gris Shark,170,1,2020,Mia&Nina,585.0
+512,Mia,,EB,CC,Lisse,Noir,,,170,1,2020,Mia&Nina,586.0
+513,Porte-monnaie,,CDU,CC,Lisse,Octane,Croco,Bleu Clair,95,1,2020,Accessoires,587.0
+514,Porte-monnaie,,CDU,CC,Lisse,Maize,Grainé,Brun Canyon,95,1,2020,,588.0
+515,Porte-monnaie,,CDU,CC,Brillant,Gris,Croco,Noir,95,1,2020,,589.0
+516,Porte-monnaie,,CDU,CC,,Orange,Lézard,Rouge,95,1,2020,,590.0
+517,Porte-monnaie,,CDU,CC,Croco,Vert,Lisse,Octane,95,1,2020,,591.0
+518,Porte-monnaie,,CDU,CC,Croco,Noir,Lisse,Vert Truffle,95,1,2020,,592.0
+519,Porte-monnaie,,CDU,CC,Lisse,Cappuccino,Grainé,Jaune,95,1,2020,,593.0
+520,Porte-monnaie,,CDU,CC,Lisse,Rouge,Lisse,Bordeaux,95,0,2020,,594.0
+521,Léonie,,CA,CC,Lisse ,Gris Shark ,Velours,Vert Bottle,480,1,2020,Léon,594.0
+522,Léonie,,CA,CC,Lisse ,Noir,Croco,Noir,475,0,2020,Léon,597.0
+523,Léonie,,CA,CC,Lisse ,Noir,Croco,Noir,475,0,2020,Léon,596.0
+524,Léonie,,CA,CC,Lisse ,Bordeaux,Nubuck,Bordeaux,475,1,2020,Léon,595.0
+525,Hélène,,EB,CC,Velours,Acajou,Lisse,Acajou,240,1,2020,,598.0
+526,Hélène,,EB,CC,Velours,Brownrose,Lisse,Brownrose,230,1,2020,,600.0
+527,Hélène,,EB,CC,Velours,Bleu Cosmo,Lisse,Bleu Cosmo,230,0,2020,,601.0
+528,Hélène ,,,CC,Velours Brun Canyon,Lisse,Brun Canyon,,230,0,2020,,599.0
+529,Chloé ,,CM,CC,Velours,Brun Chataigne,Lisse,Brun Chataigne,370,1,2017,Entre Filles,95.0
+530,Mia,,EB,CC,Lisse,Noir,,,160,1,2020,Commande,1.0
+531,Hélène,,EB,CC,Velours,Brun Chataigne,Lisse,Brun Chataigne,230,1,2020,Commande,1.0
+532,Eléonore ,,EB,CC,Lisse,Noir,Croco,Vert,195,1,2020,Commande,1.0
+533,Eléonore ,,EB,CC,Lisse,Brun Canyon,Croco,Brun Canyon,195,1,2020,Commande,1.0
+534,Kayla,,CA,CC,Lisse,Noir,Lezard,Noir,525,1,2020,Commande,1.0
+535,Léo,M,CA,CC,Lisse,Brun Canyon,Croco,Brun Canyon,390,1,2020,Commande,1.0
+536,Yaelle,,CA,CC,Lisse,Bleu Cosmo,Croco,Bleu Cosmo,490,0,2020,Entre Filles,610.0
+537,Yaelle,,CA,CC,Lisse,Noir,Croco,Noir,495,1,2020,Entre Filles,611.0
+538,Yaelle,,CA,CC,Lisse,Noir,Croco,Noir,490,1,2020,Entre Filles,612.0
+539,Yaelle,,CA,CC,Lisse,Brun Canyon,Croco,Brun Canyon,495,1,2020,Entre Filles,613.0
+540,Eléonore,L,EB,CC,Lisse,Noir,Croco,Noir,0,1,2020,Eléonore,614.0
+541,Eléonore,L,EB,CC,Lisse,Noir,Croco,Noir,195,1,2020,Eléonore,615.0
+542,Eléonore,L,EB,CC,Lisse,Brun Canyon,Croco,Brun Canyon,195,1,2020,Eléonore,616.0
+543,Eléonore,L,EB,CC,Lisse,Rouge,Nubuck,Rouge Framboise,195,1,2020,Eléonore,617.0
+544,Nina,,CA,CC,Croco,Noir,,,340,1,2020,Commande,5.0
+545,Leslie,,CA,CC,Serpent,Vipère,,,370,1,2020,Commande,6.0
+546,Eléonore ,L,CA,CC,Lisse,Cosmo,Croco,Bleu Clair,195,1,2020,Commande,7.0
+547,Trousse,,CDU,CC,Grainé,Bleu Clair,,,85,1,2020,Accessoires,618.0
+548,Eléonore,M,EB,CC,Lisse,Noir,Velours,Noir,170,1,2020,Eléonore,619.0
+549,Eléonore,M,EB,CC,Lisse,Noir,Croco,Noir,170,1,2020,Eléonore,620.0
+550,Eléonore,M,EB,CC,Croco,Noir,,,170,1,2020,Eléonore,621.0
+551,Eléonore,M,EB,CC,Croco,Vert,,,170,1,2020,Eléonore,622.0
+552,Eléonore,M,EB,CC,Croco,Vert,Lisse,Noir,170,0,2020,Eléonore,623.0
+553,Léo,M,CA,CC,Croco,Noisette,,,390,1,2020,Léon,624.0
+554,Léo,M,CA,CC,Croco,Noir Carré ,,,390,1,2020,Léon,625.0
+555,Léo,M,CA,CC,Nubuck,Taupe,,,390,1,2020,Léon,626.0
+556,Ceinture,,EB,CC,Croco,Noir,,,111,1,2020,Accessoires,1.0
+557,Kayla,,CM,CC,Lisse,Noir,Vipère,,535,1,2020,,627.0
+558,Kayla,,CM,CC,Lisse,Cappuccino,Serpent,Beige,535,1,2020,,628.0
+559,Eléonore ,M,EB,CC,Lisse,Noir,Vipère,,170,1,2020,Eléonore,629.0
+560,Eléonore ,M,EB,CC,Lisse,Brun ,Croco,Brun Noisette,170,0,2020,Eléonore,630.0
+561,Eléonore ,L,EB,CC,Lisse,Noir,Velours,Bleu Mysterious,195,1,2020,Eléonore,631.0
+562,Eléonore ,L,EB,CC,Lisse,Brun Noisette,Croco,Brun Noisette,195,1,2020,Eléonore,632.0
+563,Eléonore ,L,EB,CC,Lisse,Brun Canyon,Croco,Brun Caramel,195,1,2020,Eléonore,633.0
+564,Yaelle,,CA,CC,Lisse ,Bordeaux ,Grainé,Bordeaux ,495,0,2020,Entre Filles,634.0
+565,Yaelle,,CA,CC,Lisse ,Noir,Croco,Noir,495,0,2020,Entre Filles,635.0
+566,Yaelle,,CA,CC,Lisse ,Brun Canyon,Croco,Brun Caramel ,495,0,2020,Entre Filles,636.0
+567,Nina,,CA,CC,Lezard,Noir,,,210,1,2020,Mia&Nina,637.0
+568,Nina,,CA,CC,Lisse,Noir,Vipère ,,310,0,2020,Mia&Nina,638.0
+569,Trousse,,CDU,CC,Grainé,Bleu Clair,,,85,1,2020,Accessoires,605.0
+570,Trousse,,CDU,CC,Lisse,Bordeaux,,,85,1,2020,Accessoires,608.0
+571,Porte-monnaie,,CDU,CC,,,,,95,1,2020,Accessoires,625.0
+572,Porte-monnaie,,CDU,CC,,,,,95,1,2020,Accessoires,626.0
+573,Ceinture,,CDU,CC,Lisse,Brun Canyon,,,115,1,2020,Commande,1.0
+574,Eléonore,M,CDU,CC,Lisse,Bleu Nuit,Croco,Cosmo,187,1,2020,Commande,1.0
+575,Eléonore,M,CDU,CC,Grainé,Vert Mousse,,,187,1,2020,Commande,1.0
+576,Eléonore,M,CDU,CC,Grainé,Vert Mousse,,,187,1,2020,Commande,1.0
+577,Leslie,,CA,CC,Lisse,Bordeaux,Grainé,Bordeaux,370,1,2020,Commande,1.0
+578,Ceinture,,CDU,CC,Lisse,Noir,,Bordeaux,100,1,2020,Commande,1.0
+579,Ceinture,,CDU,CC,Croco,Noir,,,130,1,2020,Commande,1.0
+580,Ceinture,,CDU,CC,Lisse,Noir,Velours,Noir,130,1,2020,Accessoires,1.0
+581,Ceinture,,CDU,CC,Lisse,Brun Canyon,Boucle Recouverte,Croco Caramel,180,1,2020,Accessoires,1.0
+582,Ceinture,,CDU,CC,Lisse,,,,100,1,2020,Commande,1.0
+583,Ceinture,,CDU,CC,,,,,150,1,2020,Commande,1.0
+584,Léo,S,CA,CC,Lisse,Bleu ,Croco,Cosmo,400,1,2020,Commande,1.0
+585,Léonie,,CA,CC,Lisse,Rouge,Nubuck,Rouge Framboise,480,0,2020,Léon,627.0
+586,Léonie,,CA,CC,Lisse,Brun Canyon,Grainé,Brun Caramel,480,0,2020,Léon,628.0
+587,Léo,M,CA,CC,Lisse,Vert Truffle,Lisse ,Mouton,390,1,2021,Léon,629.0
+588,Léo,M,CA,CC,Lisse,Earth,Velours,Mouton,500,1,2021,Léon,630.0
+589,Léo,M,CA,CC,Lisse,Bleu Klin,,,390,0,2021,Léon,631.0
+590,Léo,M,CA,CC,Croco,Noir,,,390,1,2021,Léon,632.0
+591,Léo,S,CA,CC,Croco,Noir,,,370,0,2021,Léon,633.0
+592,Léo,S,CA,CC,Grainé,Vermicelle Glacé,,,370,1,2021,Léon,634.0
+593,Eléonore,M,CDU,CC,Lisse,Brun Canyon,Croco,Brun Noisette,170,1,2021,Eléonore,635.0
+594,Eléonore,M,CDU,CC,Lisse,Violet,Croco,Violet,170,0,2021,Eléonore,636.0
+595,Eléonore,M,CDU,CC,Lisse,Vert Leaf,Grainé,Vert Papyrus,170,1,2021,Eléonore,638.0
+596,Eléonore,M,CDU,CC,Lisse,,Grainé,,170,0,2021,Eléonore,638.0
+597,Eléonore,M,CDU,CC,Lisse,Bleu Ciel,Croco,Bleu Jeans,170,1,2021,Eléonore,639.0
+598,Eléonore,M,CDU,CC,Lisse,Rouge Suisse,Croco,Rouge Blossom,170,0,2021,Eléonore,640.0
+599,Eléonore,M,CDU,CC,Lisse,Vert Truffle,Croco,Vert Mousse,170,0,2021,Eléonore,641.0
+600,Ceinture,,CCDU,CC,Serpent,Brun,,,100,1,2021,Commande,1.0
+601,Ceinture,,CDU,CC,Croco,Noir,,,130,1,2021,Commande,2.0
+602,Ceinture,,CDU,CC,Croco,Noir,,,100,1,2021,Accessoires,1.0
+603,Eléonore,M,CDU,CC,Lisse,Cappuccino ,Serpent,Beige,170,1,2021,Commande,4.0
+604,Ceinture,,CDU,CC,Lisse,Brun Canyon ,Croco,Brun Canyon,180,1,2021,Accessoires,642.0
+605,Hélène,,CA,CC,Velours,Vert Truffle ,Lisse ,Vert Truffle ,264,1,2021,Commande ,1.0
+606,Eléonore ,M,CDU,CC,Vernis,Vert,,,170,1,2021,Eléonore ,639.0
+607,Ceinture,,CDU,CC,Croco,Noir,,,130,1,2021,Accessoires,643.0
+608,Leslie,,CA,CC,Lisse,Noir,Vipère,,370,1,2021,Entre Filles,644.0
+609,Ceinture,,CDU,CC,Croco ,Vert Mousse ,,,130,1,2021,Commande ,1.0
+610,Eléonore ,M,CDU,CC,Serpent ,Brun ,,,185,1,2021,Commande ,1.0
+611,Eléonore,M,CDU,CC,Vernis ,Beige,,,170,1,2021,Commande ,1.0
+612,Eléonore,M,CDU,CC,Vipère,,,,170,1,2021,Commande ,1.0
+613,Eléonore ,M,CDU,CC,Lézard ,Jaune,,,120,0,2021,Eléonore ,645.0
+614,Eléonore ,M,CDU,CC,Croco,Lila ,,,170,1,2021,Eléonore ,646.0
+615,Eléonore ,M,CDU,CC,Lisse ,Noir,Vipère,,170,1,2021,Eléonore ,647.0
+616,Hélène,,CA,CC,Lisse,Brownrose,Velours,Brownrose,240,1,2021,,648.0
+617,Hélène,,CA,CC,Lisse,Noir,Velours,Noir,240,0,2021,,649.0
+618,Eléonore,L,CDU,CC,Croco,Noisette,Lisse,Noisette,195,1,2021,Eléonore,650.0
+619,Eléonore,L,CDU,CC,Serpent,Beige,Lisse,Cappuccino,195,1,2021,Eléonore,651.0
+620,Eléonore,L,CDU,CC,Croco,Mysterious,Lisse,Bleu Cosmo,195,1,2021,Eléonore,652.0
+621,Eléonore,L,CDU,CC,Vipère,,Lisse,Noir,195,0,2021,Eléonore,653.0
+622,Eléonore,L,CDU,CC,Croco,Hellblau ,Lisse,Octane,195,0,2021,Eléonore,654.0
+623,Eléonore,L,CDU,CC,Croco,Noir,Lisse,Noir,195,1,2021,Eléonore,655.0
+624,Eléonore,L,CDU,CC,Croco,Noir,Lisse,Noir,195,0,2021,Eléonore,656.0
+625,Luna ,,CM,CC,Lisse,Bleu Clair ,Croco,Jean,460,0,2021,Lune,657.0
+626,Luna,,CM,CC,Lisse,Cappuccino,Serpent,Beige,460,0,2021,Lune,658.0
+627,Luna ,,CM,CC,Lisse,Jaune Citron ,Lézard ,Jaune Citron ,460,1,2021,Lune,659.0
+628,Luna ,,CM,CC,Lisse,Grainé Vermicelle ,Serpent,Brun,460,0,2021,Lune,660.0
+629,Luna ,,CM,CC,Lisse,Rouge Suisse,Croco,Rouge,460,0,2021,Lune,661.0
+630,Luna ,,CM,CC,Lisse,Rouge Phonebox ,Vernis,Rouge Framboise ,460,0,2021,Lune,662.0
+631,Dana ,,CA,CC,Vernis,Beige Muscade ,Serpent,Beige ,485,0,2021,Lune,663.0
+632,Dana,,CA,CC,Lisse,Brun Foncé,Serpent,Brun ,485,0,2021,Lune,664.0
+633,Dana,,CA,CC,Lisse,Bleu Nuit ,Croco ,Bleu Cosmo,485,1,2021,Lune,665.0
+634,Dana,,CA,CC,Lisse,Noir,Vipère,,485,1,2021,Lune,666.0
+635,Dana,,CA,CC,Lisse,Bleu Clair ,Croco,Bleu Clair,485,1,2021,Lune,667.0
+636,Léo,S,CA,CC,Velours ,Lion ,Lisse,Cappuccino,390,1,2020,Léon,668.0
+637,Léo,S,CA,CC,Lisse,Gris Shist ,Lisse,Gris Shark ,370,0,2021,Léon,669.0
+638,Léo,M,CA,CC,Lisse,Noir,Croco ,Noir,390,0,2021,Léon,670.0
+639,Léo,M,CA,CC,Lisse,Noir,Nubuck,Taupe,390,1,2021,Léon,671.0
+640,Sirona ,,CA,CC,Lisse ,Noir,Vipère,,525,0,2021,Lune,672.0
+641,Sirona ,,CA,CC,Lisse ,Earth ,Croco,Taupe,525,0,2021,Lune,673.0
+642,Sirona ,,CA,CC,Lisse ,Earth ,Serpent,Brun,525,1,2021,Lune,674.0
+643,Sirona ,,CA,CC,Lisse ,Cappuccino,Croco,Beige,525,0,2021,Lune,675.0
+644,Sirona ,,CA,CC,Lisse ,Brun Canyon,Croco,Noisette,525,0,2021,Lune,676.0
+645,Séléné,,CA,CC,Lisse ,Noir,Velours,Noir,495,0,2021,Lune,677.0
+646,Séléné,,CA,CC,Lisse ,Noir,Grainé Noir ,Noir,495,1,2021,Lune,678.0
+647,Séléné,,CA,CC,Nubuck ,Bleu ,Croco,Bleu Mysterious ,495,1,2021,Lune,679.0
+648,Séléné,,CA,CC,Nubuck ,Bordeaux ,Croco,Bordeaux ,495,1,2021,Lune,680.0
+649,Sirona ,,CM,CC,Grainé,Noir,Lisse,Noir,535,0,2021,Lune ,681.0
+650,Mia,,CDU,CC,Lisse,Gris Schist ,Sangle Raillée,,170,0,2021,Mia&Nina,682.0
+651,Mia,,CDU,CC,Grainé,Noir,Sangle Raillée,,170,0,2021,Mia&Nina,683.0
+652,Mia,,CDU,CC,Lisse,Earth,Lisse,Mouton,170,1,2021,Mia&Nina,684.0
+653,Mia,,CDU,CC,Croco,Noir,,,170,1,2021,Mia&Nina,685.0
+654,Mia,,CDU,CC,Lisse,Gris Clair,Sangle Raillée ,,170,0,2021,Mia&Nina,686.0
+655,Eléonore ,M,CM,CC,Croco,Lilas,,,170,0,2021,Eléonore ,687.0
+656,Eléonore ,M,CM,CC,Croco,Lilas,,,170,1,2021,Eléonore ,688.0
+657,Eléonore ,M,CM,CC,Lisse,Noir,Vipère ,,170,0,2021,Eléonore ,689.0
+658,Eléonore ,M,CM,CC,Lisse,Cappuccino ,Serpent,Beige,170,0,2021,Eléonore ,690.0
+659,Eléonore,L,CDU,CC,Lisse ,Cappuccino ,Serpent ,Beige,195,0,2021,Eléonore,691.0
+660,Eléonore,L,CDU,CC,Lisse ,Bleu Octane ,Croco ,Octane ,195,0,2021,Eléonore,692.0
+661,Eléonore,L,CDU,CC,Lisse ,Jaune Citron ,Croco ,Jaune ,195,1,2021,Eléonore,693.0
+662,Ceinture,,CDU,CC,Serpent,Brun,,,100,1,2021,Accessoires,1.0
+663,Ceinture,,CDU,CC,Croco,,,,115,1,2021,Accessoires,1.0
+664,Léo ,M,CA,CC,Lisse,Bleu Cosmo,Velours,Bleu Cosmo,470,1,2021,Commande,1.0
+665,Yaelle,,CM,CC,Croco,Noir,Lisse,Noir,700,1,2021,Commande,1.0
+666,Eléonore,L,CDU,CC,Lisse,Bleu Octane,Croco,Octane,185,1,2021,Eléonore,1.0
+667,Eléonore,L,CDU,CC,Lisse,Bleu Octane,Croco,Octane,214,1,2021,Commande,1.0
+668,Eléonore,M,CDU,CC,Croco,Violet,,,187,1,2021,Commande,1.0
+669,Mia,,CDU,CC,Lisse,Bordeaux,,,170,1,2021,Commande,1.0
+670,Eléonore,L,CDU,CC,Lisse,Noir,Croco,Bleu Clair,245,1,2021,Commande,1.0
+671,Ceinture,,CDU,CC,Croco,Brun Noisette,,,150,1,2021,Commande,1.0
+672,Séléné,,CA,CC,Lisse,Cappuccino,Velours,Cuoio ,495,0,2021,Lune,694.0
+673,Séléné,,CA,CC,Lisse,Mouton,Nubuck,Taupe,495,0,2021,Lune,695.0
+674,Séléné,,CA,CC,Lisse,Bleu Ciel ,Velours,Bleu Cosmo ,495,1,2021,Lune,696.0
+675,Séléné,,CA,CC,Lisse,Bleu Octane,Velours,Bleu Octane,495,0,2021,Lune,697.0
+676,Séléné,,CA,CC,Lisse,Bleu Cosmo,Nubuck ,Bleu ,495,1,2021,Lune,698.0
+677,Séléné,,CA,CC,Lisse,Noir,Nubuck ,Noir ,495,0,2021,Lune,699.0
+678,Hélène,,CDU,CC,Velours,Cuoio,Lisse,Cappuccino,240,1,2021,,670.0
+679,Hélène,,CDU,CC,Velours,Masai,Lisse,Rouge,240,1,2021,,671.0
+680,Hélène,,CDU,CC,Velours,Vert Bottle,Lisse,Vert Bottle,240,1,2021,,672.0
+681,Hélène,,CDU,CC,Velours,Taupe,Lisse,Taupe,240,0,2021,,673.0
+682,Hélène,,CDU,CC,Velours,Cuoio,Lisse,Lion,240,0,2021,,674.0
+683,Dana ,,CA,,Grainé,Noir,Vipère,,485,0,2021,Lune ,675.0
+684,Dana ,,CA,,Lisse,Jaune,Lezard,Jaune,485,0,2021,Lune ,676.0
+685,Dana ,,CA,,Lisse,Rouge Suisse,Croco,Rouge,485,0,2021,Lune ,677.0
+686,Dana ,,CA,CC,Lisse,Bleu Clair,Croco,Bleu Clair,485,1,2021,Lune ,678.0
+687,Luna ,,CM,CC,Lisse ,Jaune Citron ,Lézard ,Jaune Citron ,460,1,2021,Lune,679.0
+688,Luna ,,CM,CC,Lisse ,Vert Papyrus ,Grainé,Vert,460,0,2021,Lune,680.0
+689,Luna ,,CM,CC,Lisse ,Noir,Vipère,,460,0,2021,Lune,681.0
+690,Luna ,,CM,CC,Lisse ,Bleu Aquatique,Croco,Octane,460,0,2021,Lune,682.0
+691,Eléonore ,M,CDU,CC,Lisse ,Rouge Cremisi,Croco,Bordeaux,170,0,2021,Eléonore ,683.0
+692,Eléonore ,M,CDU,CC,Lisse ,Rouge Suisse,Croco,Rouge ,170,1,2021,Eléonore ,684.0
+693,Eléonore ,M,CDU,CC,Lisse ,Jaune Poussin,Lézard ,Jaune Poussin,170,0,2021,Eléonore ,685.0
+694,Eléonore ,M,CDU,CC,Croco,Jaune Moutarde ,Lézard ,,170,0,2021,Eléonore ,686.0
+695,Eléonore ,M,CDU,CC,Lisse,Bleu Aquatique,Croco,Octane,170,1,2021,Eléonore ,687.0
+696,Kayla,,CM,CC,Lisse,Earth,Croco,Taupe,588,1,2021,Commande,1.0
+697,Séléné,,CA,CC,Lisse,Mouton,Vipère,,445,1,2021,Commande,1.0
+698,Eléonore,L,CDU,CC,Lisse,Canyon,Croco,Noisette,214,1,2021,Commande,1.0
+699,Kayla,,CM,CC,Lisse ,Bleu Clair Artic,Croco,Jean,535,0,2021,,537.0
+700,Kayla,,CM,CC,Lisse ,Rouge Suisse,Croco,Rouge,535,0,2021,,538.0
+701,Séléné,,CA,CC,Lisse,Bleu Nuit ,Croco,Bleu Cosmo,495,1,2021,Lune,688.0
+702,Séléné,,CA,CC,Grainé,Noir,Vipère,,495,0,2021,Lune,689.0
+703,Séléné,,CA,CC,Grainé,Bordeaux,Croco,Bordeaux,495,1,2021,Lune,690.0
+704,Eléonore,L,CDU,CC,Lisse,Bleu Cosmo,Croco,Bleu Mysterious ,195,1,2021,Eléonore,691.0
+705,Eléonore,L,CDU,CC,Lisse,Rouge Cremisi ,Croco,Bordeaux,195,0,2021,Eléonore,692.0
+706,Eléonore,L,CDU,CC,Lisse,Bleu Clair Artic,Croco,Bleu Jean ,195,0,2021,Eléonore,693.0
+707,Eléonore,L,CDU,CC,Lisse,Rouge Suisse ,Croco,Rouge,195,0,2021,Eléonore,694.0
+708,Eléonore,L,CDU,CC,Lisse,Brun Canyon ,Croco,Noisette,195,0,2021,Eléonore,695.0
+709,Eléonore ,M,CDU,CC,Lisse ,Vert Leaf ,Grainé ,Vert Papyrus ,170,1,2021,Eléonore ,696.0
+710,Eléonore ,M,CDU,CC,Serpent ,Brun ,,,170,0,2021,Eléonore ,697.0
+711,Ceinture,,CDU,CC,Croco,Bleu Cosmo ,,,110,1,2021,Commande,1.0
+712,Pochette masque ,,,CC,,,,,50,1,2021,,1.0
+713,Natacha,,CA,CC,,,,,440,1,2021,Commande,1.0
+714,Eléonore ,M,CDU,CC,Croco,Noir,,,170,1,2021,Commande,1.0
+715,Hélène ,,CDU,CC,Velours,Bleu Mysterious ,Lisse,Bleu Mysterious,290,1,2021,Commande,1.0
+716,Hélène ,,CDU,CC,Velours,Octane,Lisse,Bleu Octane ,240,0,2021,,698.0
+717,Hélène ,,CDU,CC,Velours,Gris Clair ,Lisse,Gris Clair ,240,0,2021,,699.0
+718,Mia,,CDU,CC,Lisse,Jaune Maize,,,170,1,2021,Mia&Nina,670.0
+719,Mia,,CDU,CC,Vipère ,,,,170,1,2021,Mia&Nina,671.0
+720,Mia,,CDU,CC,Croco,Lilas,,,170,1,2021,Mia&Nina,672.0
+721,Mia,,CDU,CC,Serpent,Beige,,,170,0,2021,Mia&Nina,673.0
+722,Mia,,CDU,CC,Lisse,Bordeaux,,,170,0,2021,Mia&Nina,674.0
+723,Léo,S,CM,CC,Lisse,Noir,Vipère,,370,0,2021,Léon,673.0
+724,Dana,,CA,CC,Lisse,Noir,Croco,Noir,485,0,2021,Lune,674.0
+725,Dana,,CA,CC,Grainé,Noir,Vipère ,Noir,485,1,2021,Lune,675.0
+726,Dana,,CA,CC,Lisse,Bleu Nuit ,Croco,Bleu Cosmos ,485,1,2021,Lune,676.0
+727,Chloé,,CA,CC,Lisse,Bordeaux ,Croco,Bordeaux ,390,0,2021,Entre Filles ,677.0
+728,Chloé,,CA,CC,Lisse,Bleu Nuit ,Croco,Bleu Cosmo ,390,0,2021,Entre Filles ,678.0
+729,Chloé,,CA,CC,Lisse,Mouton,Vipère ,,390,0,2021,Entre Filles ,679.0
+730,Chloé ,,CA,,Lisse,Noir,Croco,Noir,390,0,2021,Entre Filles ,680.0
+731,Sirona,,CA,CC,Lisse,Earth,Serpent,Brun,525,0,2021,Lune,681.0
+732,Sirona,,CA,CC,Lisse,Noir,Croco,Noir,525,0,2021,Lune,682.0
+733,Sirona,,CA,CC,Lisse,Mouton,Vipère ,,525,0,2021,Lune,683.0
+734,Sirona,,CA,CC,Lisse,Bleu Nuit,Croco ,Bleu Cosmo ,525,0,2021,Lune,684.0
+735,Natacha,,CA,CC,Lisse ,Bleu Artic ,Croco,Bleu Jean ,410,0,2021,Entre Filles ,685.0
+736,Natacha,,CA,CC,Lisse ,Vert Pixie ,Serpent,Vert Sapin,410,0,2021,Entre Filles ,686.0
+737,Natacha,,CA,CC,Lisse ,Mouton,Serpent,Jaune,410,0,2021,Entre Filles ,687.0
+738,Natacha,,CA,CC,Lisse ,Earth,Croco,Taupe,410,0,2021,Entre Filles ,688.0
+739,Natacha,,CA,CC,Lisse ,Bordeaux ,Croco,Bordeaux,410,0,2021,Entre Filles ,689.0
+740,Eléonore ,L,CDU,CC,Lisse,Noir,Croco,Noir,195,0,2021,Eléonore,690.0
+741,Eléonore ,L,CDU,CC,Lisse,Bleu Cosmo,Croco,Bleu Mysterious ,195,0,2021,Eléonore,691.0
+742,Eléonore ,L,CDU,CC,Lisse,Vert Pixie,Serpent,Vert Sapin,195,0,2021,Eléonore,692.0
+743,Eléonore ,L,CDU,CC,Lisse,Earth ,Serpent,Taupe,195,0,2021,Eléonore,693.0
+744,Eléonore ,L,CDU,CC,Lisse,Beige Cowboy,Serpent,Jaune,195,0,2021,Eléonore,694.0
+745,Eléonore ,L,CDU,CC,Lisse,Shark ,Velours ,Vert Bottle,195,0,2021,Eléonore,695.0
+746,Leslie,,CA,CC,Lisse ,Vert Pixie ,Serpent ,Vert,370,0,2021,Entre Filles ,696.0
+747,Leslie,,CA,CC,Lisse ,Earth,Serpent,Taupe ,370,0,2021,Entre Filles ,697.0
+748,Leslie,,CA,CC,Lisse ,Bleu Nuit ,Croco,Bleu Cosmos ,370,0,2021,Entre Filles ,698.0
+749,Mia,,CDU,CC,Croco,Noir,,,170,0,2021,Mia&Nina,699.0
+750,Mia,,CDU,CC,Croco,Noir,,,170,0,2021,Mia&Nina,670.0
+751,Ceinture,,CDU,CC,Lisse ,Noir,Velours,Noir,150,1,2021,Accessoires ,1.0
+752,Eléonore ,L,CDU,CC,Lisse,Bleu Nuit,Croco ,Bleu Jean ,240,1,2021,Commande,1.0
+753,Ceinture,,,CC,,,,,130,1,2021,Accessoires ,1.0
+754,Séléné ,,,CC,,,,,520,1,2021,Commande,1.0
+755,Dana,,CM,CC,Grainé ,Noir,Vipère ,,535,1,2021,Commande,1.0
+756,Séléné ,,CA,CC,Lisse,Bleu Nuit ,Nubuck ,Smoke ,495,0,2021,Lune,671.0
+757,Séléné ,,CA,CC,Lisse,Mouton,Nubuck ,Grège,495,0,2021,Lune,672.0
+758,Séléné ,,CA,CC,Lisse,Redskin,Velours,Noisette,495,0,2021,Lune,673.0
+759,Séléné ,,CA,CC,Lisse,Vert Pixie,Velours,Vert Bottle,495,0,2021,Lune,674.0
+760,Séléné ,,CA,CC,Lisse,Noir,Velours,Noir,495,0,2021,Lune,675.0
+761,Séléné ,,CA,CC,Lisse,Redskin,Velours,Noisette,495,0,2021,Lune,676.0
