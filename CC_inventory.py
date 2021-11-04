@@ -103,9 +103,9 @@ elif menu == 'Ajouter Produit':
     couleur = st.text_input('Couleur 1  ') # + str(cc_df['Couleur'].unique())
     matiere_2 = st.text_input('Matière 2  ') #  + str(cc_df['Matière 2'].unique())
     couleur_2 = st.text_input('Couleur 2  ') #  + str(cc_df['Couleur 2'].unique())
-    prix = st.number_input('Prix  ' + str(cc_df['Prix'].unique()), min_value=0, max_value=10000, value=0, step=1)
-    vendu = st.number_input('Vendu  ' + str(cc_df['Vendu'].unique()), min_value=0, max_value=10, value=0, step=1)
-    annee = st.number_input('Année de production  ', min_value=2000, max_value=2040, value=str(strftime("%Y")), step=1)
+    prix = st.number_input('Prix  ' + str(cc_df['Prix']), min_value=0, max_value=10000, value=0, step=1)
+    vendu = st.number_input('Vendu  ' + str(cc_df['Vendu']), min_value=0, max_value=10, value=0, step=1)
+    annee = st.number_input('Année de production  ', min_value=2000, max_value=2040, value=int(strftime("%Y")), step=1)
     gamme = st.text_input('Gamme  ') #  + str(cc_df['Gamme'].unique())
     num_produit = st.number_input('Numero de produit  ',  min_value=0, max_value=10000, value=1, step=1)
 
