@@ -46,7 +46,7 @@ if menu == 'Voir Inventaire':
 
     sold = st.sidebar.checkbox('Afficher uniquement les sacs vendus')
     dispo = st.sidebar.checkbox('Afficher les sacs disponibles')
-    expander = st.sidebar.beta_expander("Informations")
+    expander = st.sidebar.expander("Informations")
     expander.text('-rouge: sac vendu')
     expander.text('-vert: sac disponible')
     expander.text("-Filtrer les sacs par vendus ou ")
@@ -72,7 +72,7 @@ if menu == 'Voir Inventaire':
 elif menu == 'Ajouter Produit':
     st.header('Ajouter un Produit')
 
-    expander = st.sidebar.beta_expander("Informations")
+    expander = st.sidebar.expander("Informations")
     expander.text("-Respecter la standardisation des mots, ")
     expander.text("s'il est ecrit avec une majuscule, ")
     expander.text('mettre une majuscule')
@@ -95,18 +95,18 @@ elif menu == 'Ajouter Produit':
 
 
 
-    modele = st.text_input("Nom du modèle  " + str(cc_df['Modèle'].unique()))
-    fait_par =  st.text_input("Fait par  " + str(cc_df['Fait par'].unique()))
-    taille = st.text_input("Taille  " + str(cc_df['Taille'].unique()))
-    collection = st.text_input('Collection  ' + str(cc_df['Collection'].unique()))
-    matiere = st.text_input('Matière 1  ' + str(cc_df['Matière'].unique()))
-    couleur = st.text_input('Couleur 1  ' + str(cc_df['Couleur'].unique()))
-    matiere_2 = st.text_input('Matière 2  ' + str(cc_df['Matière 2'].unique()))
-    couleur_2 = st.text_input('Couleur 2  ' + str(cc_df['Couleur 2'].unique()))
+    modele = st.text_input("Nom du modèle  ") # + str(cc_df['Modèle'].unique())
+    fait_par =  st.text_input("Fait par  ") # + str(cc_df['Fait par'].unique())
+    taille = st.text_input("Taille  ") #  + str(cc_df['Taille'].unique())
+    collection = st.text_input('Collection  ') #  + str(cc_df['Collection'].unique())
+    matiere = st.text_input('Matière 1  ') #  + str(cc_df['Matière'].unique())
+    couleur = st.text_input('Couleur 1  ') # + str(cc_df['Couleur'].unique())
+    matiere_2 = st.text_input('Matière 2  ') #  + str(cc_df['Matière 2'].unique())
+    couleur_2 = st.text_input('Couleur 2  ') #  + str(cc_df['Couleur 2'].unique())
     prix = st.number_input('Prix  ' + str(cc_df['Prix'].unique()), min_value=0, max_value=10000, value=0, step=1)
     vendu = st.number_input('Vendu  ' + str(cc_df['Vendu'].unique()), min_value=0, max_value=10, value=0, step=1)
-    annee = st.number_input('Année de production  ', min_value=2000, max_value=2100, value=2020, step=1)
-    gamme = st.text_input('Gamme  ' + str(cc_df['Gamme'].unique()))
+    annee = st.number_input('Année de production  ', min_value=2000, max_value=2040, value=str(strftime("%Y")), step=1)
+    gamme = st.text_input('Gamme  ') #  + str(cc_df['Gamme'].unique())
     num_produit = st.number_input('Numero de produit  ',  min_value=0, max_value=10000, value=1, step=1)
 
 
@@ -199,23 +199,23 @@ elif menu == 'Analysis':
     dispo_df = cc_df[cc_df['Vendu'] < 1]
 
     st.subheader('- Les sacs les plus vendus: ')
-    expander = st.beta_expander("Voir graphique")
+    expander = st.expander("Voir graphique")
     expander.bar_chart(vendu_df['Modèle'].value_counts(ascending=True))
 
     st.subheader('- Les sacs disponibles: ')
-    expander = st.beta_expander("Voir graphique")
+    expander = st.expander("Voir graphique")
     expander.bar_chart(dispo_df['Modèle'].value_counts(ascending=True))
 
     st.subheader('- Les couleurs qui plaisent le plus: ')
-    expander = st.beta_expander("Voir graphique")
+    expander = st.expander("Voir graphique")
     expander.bar_chart(vendu_df['Couleur'].value_counts(ascending=True))
 
     st.subheader('- Les matières principales qui plaisent le plus: ')
-    expander = st.beta_expander("Voir graphique")
+    expander = st.expander("Voir graphique")
     expander.bar_chart(vendu_df['Matière'].value_counts(ascending=True))
 
     st.subheader('- Les matières secondaires qui plaisent le plus: ')
-    expander = st.beta_expander("Voir graphique")
+    expander = st.expander("Voir graphique")
     expander.bar_chart(vendu_df['Matière 2'].value_counts(ascending=True))
 
     st.markdown('</br>', unsafe_allow_html=True)
@@ -228,6 +228,7 @@ elif menu == 'Analysis':
     st.subheader("- Montant total des sacs produits en 2018 s'élève à : " + str(cc_df[cc_df['Année'] == 2018]['Prix'].sum()) + ' CHF')
     st.subheader("- Montant total des sacs produits en 2019 s'élève à : " + str(cc_df[cc_df['Année'] == 2019]['Prix'].sum()) + ' CHF')
     st.subheader("- Montant total des sacs produits en 2020 s'élève à : " + str(cc_df[cc_df['Année'] == 2020]['Prix'].sum()) + ' CHF')
+    st.subheader("- Montant total des sacs produits en 2021 s'élève à : " + str(cc_df[cc_df['Année'] == 2021]['Prix'].sum()) + ' CHF')
 
     st.markdown('</br>', unsafe_allow_html=True)
     st.markdown('</br>', unsafe_allow_html=True)
