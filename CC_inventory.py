@@ -229,6 +229,7 @@ elif menu == 'Analysis':
     st.subheader("- Montant total des sacs produits en 2019 s'élève à : " + str(cc_df[cc_df['Année'] == 2019]['Prix'].sum()) + ' CHF')
     st.subheader("- Montant total des sacs produits en 2020 s'élève à : " + str(cc_df[cc_df['Année'] == 2020]['Prix'].sum()) + ' CHF')
     st.subheader("- Montant total des sacs produits en 2021 s'élève à : " + str(cc_df[cc_df['Année'] == 2021]['Prix'].sum()) + ' CHF')
+    st.subheader("- Montant total des sacs produits en 2021 s'élève à : " + str(cc_df[cc_df['Année'] == 2022]['Prix'].sum()) + ' CHF')
 
     st.markdown('</br>', unsafe_allow_html=True)
     st.markdown('</br>', unsafe_allow_html=True)
