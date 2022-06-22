@@ -4,7 +4,7 @@ import altair as alt
 from time import strftime
 import numpy as np
 
-url = "CC_mere_et_fille - Feuille 1.csv"
+url = "CC_mere_et_fille.csv"
 
 
 st.set_page_config(page_title='CC Inventaire', layout='wide')
@@ -19,6 +19,14 @@ def highlight_survived(s):
 def color_survived(val):
     color = 'red' if val else 'green'
     return f'background-color: {color}'
+
+def color_boolean(val):
+    color =''
+    if val == '1':
+        color = 'red'
+    elif val == '0':
+        color = 'green'
+    return 'color: %s' % color
 
 
 ################################
@@ -59,7 +67,7 @@ if menu == 'Voir Inventaire':
     
     if not sold and not dispo:
         st.header("Inventaire de l'ensemble des sacs")
-        st.dataframe(cc_df.style.apply(highlight_survived, axis=1), width=1280, height=640)
+        st.dataframe(cc_df.style.applymap(color_boolean, axis=1), width=1280, height=640)
 
     if dispo:
         st.header('Inventaire des sacs disponibles')
@@ -162,30 +170,30 @@ elif menu == 'Modifier/Vente Produit':
     if validation_selector:
         if mod_selector == 'Sac vendu':
             cc_df.at[ligne,'Vendu'] = 1
-            cc_df.to_csv('CC_mere_et_fille - Feuille 1.csv')
+            cc_df.to_csv(url)
             st.sidebar.subheader('Done')
 
         
         elif mod_selector == 'Mettre dans inventaire':
             cc_df.at[ligne,'Vendu'] = 0
-            cc_df.to_csv('CC_mere_et_fille - Feuille 1.csv')
+            cc_df.to_csv(url)
             st.sidebar.subheader('Done')
 
 
         elif mod_selector == 'Supprimer la ligne':
             cc_df = cc_df.drop([ligne])
-            cc_df.to_csv('CC_mere_et_fille - Feuille 1.csv')
+            cc_df.to_csv(url)
             st.sidebar.subheader('Done')
 
 
         elif mod_selector == 'Modifier produit':
             if mod_col in ['Année', 'Prix', 'Numéro produit']:
                 cc_df.at[ligne, mod_col] = int(mod_eff)
-                cc_df.to_csv('CC_mere_et_fille - Feuille 1.csv')            
+                cc_df.to_csv(url)            
                 st.sidebar.subheader('Done')
             else:
                 cc_df.at[ligne, mod_col] = mod_eff
-                cc_df.to_csv('CC_mere_et_fille - Feuille 1.csv')            
+                cc_df.to_csv(url)            
                 st.sidebar.subheader('Done')
 
 
@@ -230,6 +238,7 @@ elif menu == 'Analysis':
     st.subheader("- Montant total des sacs produits en 2020 s'élève à : " + str(cc_df[cc_df['Année'] == 2020]['Prix'].sum()) + ' CHF')
     st.subheader("- Montant total des sacs produits en 2021 s'élève à : " + str(cc_df[cc_df['Année'] == 2021]['Prix'].sum()) + ' CHF')
     st.subheader("- Montant total des sacs produits en 2022 s'élève à : " + str(cc_df[cc_df['Année'] == 2022]['Prix'].sum()) + ' CHF')
+    st.subheader("- Montant total des sacs produits en 2023 s'élève à : " + str(cc_df[cc_df['Année'] == 2023]['Prix'].sum()) + ' CHF')
 
     st.markdown('</br>', unsafe_allow_html=True)
     st.markdown('</br>', unsafe_allow_html=True)
@@ -268,21 +277,21 @@ elif menu == 'Recherche':
 
         with col1:
             st.write("### Critère 1")
-            crit1 = st.selectbox("Selection du 1 critère de recherches", cc_df.columns)
+            crit1 = st.selectbox("Selection du 1er critère de recherche", cc_df.columns)
             lookup1 = st.text_input('1er Terme à rechercher:')
 
             cc_df = cc_df[cc_df[crit1].str.contains(lookup1, case=False, na=False)]
 
         with col2:
             st.write("### Critère 2")
-            crit2 = st.selectbox("Selection du 2 critère de recherches", cc_df.columns)
+            crit2 = st.selectbox("Selection du 2eme critère de recherches", cc_df.columns)
             lookup2 = st.text_input('2eme Terme à rechercher:')
 
             cc_df = cc_df[cc_df[crit2].str.contains(lookup2, case=False, na=False)]
 
         with col3:
             st.write("### Critère 3")
-            crit3 = st.selectbox("Selection du 3 critère de recherches", cc_df.columns)
+            crit3 = st.selectbox("Selection du 3eme critère de recherches", cc_df.columns)
             lookup3 = st.text_input('3eme Terme à rechercher:')
 
             cc_df = cc_df[cc_df[crit3].str.contains(lookup3, case=False, na=False)]        
