@@ -22,9 +22,9 @@ def color_survived(val):
 
 def color_boolean(val):
     color =''
-    if val == '1':
+    if val == 1:
         color = 'red'
-    elif val == '0':
+    elif val == 0:
         color = 'green'
     return 'color: %s' % color
 
