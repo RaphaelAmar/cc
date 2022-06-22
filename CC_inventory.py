@@ -261,7 +261,7 @@ elif menu == 'Recherche':
         st.dataframe(df2.style.apply(highlight_survived, axis=1), width=1280, height=640)
 
     if search == 'Avancé':
-        col1, col2, col3 = st.beta_columns(3)
+        col1, col2, col3 = st.columns(3)
         cc_df["Vendu"] = cc_df["Vendu"].astype(str)
         cc_df["Année"] = cc_df["Année"].astype(str)
         cc_df["Prix"] = cc_df["Prix"].astype(str)
