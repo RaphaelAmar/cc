@@ -14,11 +14,13 @@ st.set_page_config(page_title='CC Inventaire', layout='wide')
 
 
 def highlight_survived(s):
-    return ['background-color: rgba(255, 0, 0, 0.2)']*len(s) if s.Vendu else ['background-color: rgba(0, 255, 0, 0.2)']*len(s)
+    return ['background-color: green']*len(s) if s.Vendu else ['background-color: red']*len(s)
 
 def color_survived(val):
     color = 'red' if val else 'green'
     return f'background-color: {color}'
+
+
 
 def color_boolean(val):
     color =''
@@ -68,7 +70,8 @@ if menu == 'Voir Inventaire':
     if not sold and not dispo:
         st.header("Inventaire de l'ensemble des sacs")
         #cc_df = cc_df.style.applymap(color_boolean)
-        st.dataframe(cc_df['Vendu'].style.highlight_max(axis=1))
+        #st.dataframe(cc_df['Vendu'].style.highlight_max(axis=1))
+        st.dataframe(cc_df.style.apply(highlight_survived, axis=1))
         #st.dataframe(cc_df, width=1280, height=640)
 
     if dispo:
