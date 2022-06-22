@@ -67,7 +67,7 @@ if menu == 'Voir Inventaire':
     
     if not sold and not dispo:
         st.header("Inventaire de l'ensemble des sacs")
-        st.dataframe(cc_df.style.applymap(color_boolean, axis=1), width=1280, height=640)
+        st.dataframe(cc_df.style.apply(color_boolean, axis=1), width=1280, height=640)
 
     if dispo:
         st.header('Inventaire des sacs disponibles')
